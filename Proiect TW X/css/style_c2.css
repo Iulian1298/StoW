@@ -1,0 +1,292 @@
+html
+{ height: 100%;}
+
+*
+{ margin: 0;
+  padding: 0;}
+
+body
+{ font: normal 85% Arial, Helvetica, sans-serif;
+  background: #676767 url(../imagini/background.jpg) no-repeat center fixed;
+  color: #000;]
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+}
+#main, #site_content
+{ margin-left: auto;
+  margin-right: auto;
+  background: transparent;}
+  * {
+    box-sizing: border-box;
+}
+/*Titlu: -culoare
+		-aranjare
+*/
+#welcome
+{ 
+  width: 90%;
+  text-align:center;
+  
+  height: auto;
+  margin:0 auto;
+  background: transparent;
+  }
+ #welcome H1
+{ font: bold 500% Courier New, Helvetica, sans-serif;
+  letter-spacing: 0px;
+  color: 	#F3D617;
+  text-shadow: 5px 5px #1D1D1D;}
+ 
+ /*Bara de meniu: -aranjare pe mijloc
+				  -culoare
+				  -incadrare in chenar
+				  */
+  #menubar
+{ 
+   width: 75%;
+  height: auto;
+  text-align: center;
+  margin: 0 auto;
+
+  }
+    /*Aranjare in pagina bara de meniu*/
+  
+  ul#menu
+{ 
+  margin: 0 0 0 20px;
+  background: #A5260A;
+  text-align: center;
+  margin: 0 auto;
+  background: 	#A5260A;
+  background: -moz-linear-gradient(	#000000, 	#A5260A);
+  background: -o-linear-gradient(	#000000, 	#A5260A);
+  background: -webkit-linear-gradient(	#000000, 	#A5260A);
+  border-radius: 15px 15px 0px 0px;
+  -moz-border-radius: 15px 15px 0px 0px;
+  -webkit-border: 15px 15px 0px 0px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  }
+    
+/*Bara de meniu*/
+
+ul#menu li
+{ padding: 0 0 0 0px;
+  list-style: none;
+  margin: 2px 0 0 0;
+  display: inline;
+  background: transparent;}
+  
+  /*Bara de meniu(scris)*/
+
+ul#menu li a
+{ float: center; /* era left*/
+  font: bold 120% Cursive, Helvetica, sans-serif;
+  text-align: center;
+  color: orange;
+  text-decoration: none;
+  text-shadow: 0px -1px 0px #000;
+  padding: 16px 20px 10px 35px;
+  background: transparent; }
+  
+  /*Background buton curent*/
+  
+  ul#menu li.current a
+{ --background: 	#676767;
+text-decoration: underline;
+  font: bold 200% Cursive, Helvetica, sans-serif;
+  text-shadow: none;}
+  
+  /*Tot continutul site-ului*/
+    #site_content
+{ 
+	width:75%;
+  overflow: auto;
+  margin: 0 auto;
+  background: 	#000000;
+  border-radius: 0px 0px 15px 15px;
+  -moz-border-radius: 0px 0px 15px 15px;
+  -webkit-border: 0px 0px 15px 15px;
+  color:white;}
+  
+  /*Bara din stanga*/
+  /*-aliniere*/
+    .sidebar_container
+{ float: left;
+  margin: 10px 20px 0 0;
+  
+  width: 25%;
+  padding: 0;
+  
+  }
+  /*-modifica scrisul*/
+   .sidebar
+{ float: left;
+  width: 100%;
+  height:100%;
+  padding: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  }
+    .sidebar_item
+{ font: normal 100% Arial, Helvetica, sans-serif;
+  width: 215px;}
+  
+    /*butonul de cautare*/
+.search
+{padding:0 0 10px 10px;
+}
+.search button
+{float:right;
+  padding: 7.5px 8.5px;
+  background:url(../imagini/search_button.jpg) ;
+}
+  /*-titlu bara stanga*/
+    .sidebar h2
+{ padding: 5px 0 0 60px;
+  font: normal 140% Arial, Helvetica, sans-serif;
+  height: 30px;
+  text-shadow: 0px -1px 0px #000;
+  color: #fff;
+  background: 	#A5260A;
+  background: -moz-linear-gradient(	#000000, 	#A5260A);
+  background: -o-linear-gradient(	#000000, 	#A5260A);
+  background: -webkit-linear-gradient(	#000000, 	#A5260A);
+  border-radius: 15px 15px 15px 15px;
+  -moz-border-radius: 15px 15px 15px 15px;
+  -webkit-border: 15px 15px 15px 15px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+   
+  }
+  
+  .sidebar p
+  {
+	padding:10px 0 0 10px; 
+	
+  }
+  
+  
+    /*Continutul*/
+ #content
+{ width: 70%;
+  float: left;} 
+  .content_item
+{ width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;}
+  
+  
+  img{
+	width:80%;
+	height:40%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto ;
+	
+}
+  #personaje
+{ padding:10px 10px 0px 20px;
+}
+  
+  
+  #pov
+{
+	font: bold 150% Courier New, Helvetica, sans-serif;
+  letter-spacing: 0px;
+  color: 	#F3D617;
+  text-shadow: 5px 5px #1D1D1D;
+  padding-left:100px;
+}
+#desc #pers
+{
+	padding:5px 0 5px 20px;
+	color:#6D071A;
+	font:bold 100% Courier New, Helvetica, sans-serif;
+}
+
+  
+  /* semn de carte facut de Andrei*/
+  
+  #button1
+{
+
+  padding:5px;
+  background-color:#A5260A ; 
+  color:orange;
+  font-size: 10px;
+  border-radius: 10px;
+}
+#button1:hover
+{
+
+  background-color: red; 
+}
+
+#poveste{
+
+  height:auto;
+  width:80%;
+  border:1px solid #333;
+  padding: 10px 15px;
+  text-align: left;
+  line-height: 1;
+  font-size: 14px;
+
+
+}
+
+#titlu-pov{
+  height:auto;
+  width:80%;
+  border:2px solid #333;
+  padding: 10px 15px;
+  text-align: center;
+  letter-spacing: 3px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: oblique;
+  color:orange;
+  font-size: 40px;
+
+
+}
+#pagini{
+  height:20px;
+  width:80%;
+  border:2px solid #333;
+  padding-bottom: 30px;
+  padding-top: 10px;
+}
+
+  
+  
+  @media only screen and (max-width: 1100px) {
+    /* For desktop: */
+    .sidebar_container
+{ float: left;
+  margin: 10px 20px 0 0;
+  
+  width: 100%;
+  padding: 0;
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
