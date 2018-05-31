@@ -88,7 +88,8 @@ echo'
 		</div>
 		<!--close main-->
 	</body>
-</html>';
+</html>
+';
 else
 	echo '<p style="color: red;
 			font-weight: 1000;
@@ -102,3 +103,4 @@ else
 			font-size: 100px;">
 			You aren\'t loged in. Please log in first!!! <p><br>';
 ?>
+
