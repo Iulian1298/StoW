@@ -12,7 +12,9 @@ $titlu_si_autor=get_titlu_autor_from_db($id_poveste_cautata,$con);
 $titlu=$titlu_si_autor['titlu'];
 $autor=$titlu_si_autor['autor'];
 $id_fragment=get_id_fragment($id_poveste_cautata,$con);
-$fragment=get_ultimul_fragment_citit($retine_username,$id_poveste_cautata,$con);
+$fragment_si_id=get_ultimul_fragment_citit_si_idul_fragmentului($retine_username,$id_poveste_cautata,$con);
+$fragment=$fragment_si_id['fragment'];
+$id_fragment=$fragment_si_id['id_fragment'];
 echo'
 <!DOCTYPE html>
 <html>
@@ -103,8 +105,10 @@ echo '
 						</form>
 					</div>
 					<div id="poveste">
-						<p>' . utf8_encode($fragment) . '</p>			
-
+						<p>' . utf8_encode($fragment) . '</p>	
+						<center>
+							<p id="nr_pagina">&nbsp;'.$id_fragment.'&nbsp;</p>
+						</center>
 					</div>
 				</div>
 			</center>

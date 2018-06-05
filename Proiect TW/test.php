@@ -1,6 +1,6 @@
 <?php 
 
-if(!$xml=simplexml_load_file('Pinnochio.xml')){
+if(!$xml=simplexml_load_file('test.xml')){
 trigger_error('Error reading XML file',E_USER_ERROR);
 }
 $poveste=$xml->poveste;

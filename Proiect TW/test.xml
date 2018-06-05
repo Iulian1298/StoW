@@ -1,0 +1,2063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carte>
+<titlu>Alice in tara minunilor</titlu>
+<autor>Lewis Carroll</autor>
+<categorie>Categorie 9-12 ani</categorie>
+<personaje>
+	<index><personaj>ALICE</personaj>
+			<caracterizare> Suflet independent, ea se simte prinsă ca într-o capcană între principiile înguste ale doamnelor din aristocrația victoriană a Londrei. Alice Kingsleigh nu știe cum să găsească un echilibru între visurile proprii și așteptările celor din jur. După moartea iubitului său tată, ea merge la o petrecere în aer liber, împreună cu mama și sora ei. Însă ce nu știe ea este că întreaga festivitate ar trebui să fie chiar petrecerea ei de logodnă. Când Hamish Ascot – un tip arogant și plictisitor – o cere de soție, Alice vede un Iepure Alb îmbrăcat cu redingotă, care grăbește pasul, uitându-se la ceasul lui de buzunar. Ea fuge după personajul îmblănit, cade în vizuina iepurelui și ajunge în Underland, locul pe care l-a vizitat pentru prima dată în copilărie (și l-a numit Wonderland)—deși nu mai ține minte nimic, nici despre locul în sine, nici despre locuitorii săi. Alice se întâlnește totuși cu prietenii din copilărie - între care omida Absolem, Pisica de Cheshire, Tweedledee și Tweedledum, și bineînțeles Pălărierul cel Nebun - pentru a porni în căutarea adevăratului ei destin. “La început, Alice este stângace, nu se simte deloc bine în pielea ei,” spune Wasikowska. “Deci experiența ei în Underland este un mod de a restabili legătura cu sine însăși, de a descoperi că are forța să fie mai sigură pe sine și să afle ce își dorește.” </caracterizare>
+	</index>
+	<index><personaj>PALARIERUL CEL NEBUN</personaj>
+			<caracterizare> El a așteptat cu nerăbdare întoarcerea lui Alice și este poate singurul ei prieten adevărat, care încă mai crede în ea când toți ceilalți au renunțat. Nu se teme de nimic și este gata de orice pentru a o proteja pe Alice, chiar punându-se pe sine în pericol. Cândva mândrul pălărier al Reginei Albe, el a fost afectat de o intoxicație cu mercur, un efect nefericit al procesului de fabricare a pălăriilor. Ca urmare, nu se simte prea bine. “Întotdeauna am considerat că Pălărierul este un personaj întrucâtva tragic,” spune Depp. “E o victimă, în multe feluri. Categoric, mercurul l-a lovit, dar există un element tragic din trecutul lui, în această versiune, care atârnă destul de greu pe capul personajului .” </caracterizare>
+	</index>
+	<index><personaj>CHESSUR, PISICA DE CHESHIRE</personaj>
+			<caracterizare>Este un mârtan fercheș, care poate să apară și să dispară când vrea el. E calm, cu o senzualitate lejeră și un zâmbet larg, seducător, care îi maschează lașitatea. Primul element care apare în fața lui Alice este capul fără corp al pisicii – în Pădurea Tulgey, după ce fata a fost atacată de ticălosul Bandersnatch. Pisica se oferă să îi curețe rănile de pe braț, lingându-i-le. Alice refuză, dar îi permite să o conducă la petrecerea cu ceai a Pălărierului, unde acesta dă vina pe Chessur, acuzându-l că i-a părăsit în ziua când Regina Roșie a preluat controlul în Underland. Folosindu-și măiestria proprie și multrâvnitul joben al Pălărierului, Chessur găsește ulterior o cale de a se reabilita.</caracterizare>
+	</index>
+	<index><personaj>IEPURELE DE MARTIE</personaj>
+			<caracterizare>Este gazda petrecerii cu ceai pe care Pălărierul Nebun o dă la Casa Iepurelui. Paranoic, anxios și ușor nebun, Iepurele își mișcă tot timpul labele și urechile; în plus, are o înclinație către aruncat de colo-colo ceainice și tot soiul de alte obiecte. Pasionat de gătit, este unul dintre puținii locuitori din Underland care a reușit să scape din ghearele Reginei Roșii.</caracterizare>
+	</index>
+	<index><personaj>IRACEBETH, REGINA ROSIE</personaj>
+			<caracterizare>Este stăpâna tiranică a ținutului Underland. Are capul supradimensionat, un temperament focos și tendința de a striga mereu, poruncind să fie decapitați unii și alții din jur. Stăpânește țara printr-un regim de teroare. “Are probleme emoționale,” spune Bonham Carter. “Își iese din fire pentru tot felul de fleacuri. Face crize de furie ca un copil de doi ani”. Sora ei mai mică, Regina Albă, a făcut proiectele pentru tron și coroană, dar Iracebeth le-a furat odinioară de la ea.</caracterizare>
+	</index>
+</personaje>
+
+<poveste>
+
+În Ajunul Crăciunului, cît este ziua de lungă, copiilor medicului consilier
+Stahlbaum nu le era deloc îngăduit să intre în odaia de mijloc, şi cu atît mai
+puţin alături, în salon.
+Strînşi unul într—altul, Fritz şi Măria şedeau ghemuiţi într—un ungher al
+cămăruţei din spate. Se întunecase de—a binelea şi pe copii îi cuprinse teama,
+căci, aşa cum se întîmpla de obicei în această zi, au fost lăsaţi fără lumină.
+Pe şoptite, Fritz îi dezvălui surioarei sale (care abia împlinise şapte ani) că în
+odăile încuiate ar fi auzit, încă dis—de—dimineaţă, foşnete, hîrşîieli şi uşoare
+pocnete, şi că nu demult s—ar fi strecurat în casă un om mărunt şi tare
+misterios, purtînd sub braţ o cutie mare.
+Despre acesta el ştie însă foarte bine că nu e altul decît naşul Drosselmeier. De
+bucurie, Măria bătu din palmele—i mici şi strigă:
+— Ce minunăţie o mai fi născocit pentru noi naşul Drosselmeier?!
+Consilierul de curte Drosselmeier nu era un bărbat frumos: mic şi sfrijit, avea
+un obraz adînc brăzdat, un plasture mare, negru, în locul ochiului drept, şi păr
+deloc, din care pricină purta o foarte frumoasă perucă albă care — ce credeţi?
+— era de sticlă, o adevărată operă de artă.
+
+De altfel, naşul însuşi era un maestru în felul său; se pricepea pînă şi la
+ceasuri, ba ştia chiar să le şi facă. Atunci cînd la Stahlbaum acasă se
+îmbolnăvea una din frumoasele pendule şi nu voia să cînte, venea naşul
+Drosselmeier, îşi scotea peruca de sticlă, îşi dezbrăca hăinuţa lui galbenă
+şi—şi punea un şorţ albastru. Apoi scormonea ceasul cu unelte atît de ascuţite,
+încît pe măicuţa Măria o cuprindea o adevărată jale.
+Dar asta nu—i pricinuia nici un rău pendulei, dimpotrivă, ea se înviora şi
+începea îndată să zbîrnîie, să bată şi să ticăie veselă, spre bucuria tuturora.
+Ori de cîte ori venea, naşul avea în buzunar cîte ceva pentru copii, ba un
+omuleţ caraghios ce îşi rostogolea ochii şi făcea plecăciuni, ba o cutie din care
+sărea o păsărică, ba altele.
+De Crăciun însă el meşterea de obicei cu multă trudă o operă de artă atît de
+preţioasă, încît, deşi o dăruia copiilor, părinţii grijulii o luau de îndată în
+păstrare.
+— Ce minunăţie o mai fi făcut nenea Drosselmeier pentru noi?! exclamă
+Măria.
+Fritz era de părere că de data asta nici n—ar putea fi vorba de altceva decît de
+o cetate în care tot felul de soldaţi tare chipeşi au să mărşăluiască încoace şi
+încolo şi au să facă instrucţie.
+Apoi au să vină alţi soldaţi, care au să încerce să se strecoare în cetate, iar
+soldaţii dinăuntru au să tragă vitejeşte cu tunurile, aşa de tare, de o să se
+cutremure pămîntul.
+— Nu, nu, îl întrerupse Măria, naşul mi—a vorbit de o grădină frumoasă.
+Acolo se află un lac mare, pe care alunecă lebede minunate, cu salbe de aur la
+gît, şi cîntă cele mai încîntătoare melodii. Pe urmă, o fetiţă vine din parc la
+marginea lacului, cheamă lebedele şi le hrăneşte cu marţipan dulce.
+— Lebedele nu mănîncă marţipan, replică Fritz, şi un parc întreg nu poate
+să facă nici măcar nenea Drosselmeier... De fapt, nu prea ne alegem cu mare
+lucru din jucăriile lui; ni le iau de îndată ce le primim; aşa că acelea dăruite de
+tata şi de mama îmi sînt mult mai dragi, fiindcă măcar le putem păstra şi
+putem face ce vrem cu ele.
+Apoi copiii făcură tot soiul de presupuneri în legătură cu jucăriile pe care
+aveau să le primească.
+Măria era de părere că madmazel Trudchen, păpuşa cea mare, s—a schimbat
+mult, căci, mai stîngace ca oricînd, cade în fiecare clipă pe podea, rămînînd
+totdeauna cu cîte o urmă urîtă în obraz; cît despre curăţenia rochiţelor, nici să
+nu mai vorbim, mustrările cele mai aspre nu mai ajută la nimic.
+În schimb, Fritz o încredinţa că ar trebui să—şi întregească herghelia cu un
+roib zdravăn şi că trupelor sale le lipseşte cu desăvîrşire cavaleria, lucru de
+altfel bine cunoscut de tata.
+De bună seamă, copiii ştiau că părinţii le cumpăraseră tot felul daruri
+frumoase, pe care acum le pregăteau pentru ei. Micuţa Măria rămase pe
+gînduri în vreme ce Fritz mormăi:
+— Eu totuşi aş vrea nişte husari şi un roib!
+
+Se întunecase de—a binelea. Lipiţi unul de altul,Frite şi Măria nu îndrăzneau
+să mai rostească nici un cuvînt în clipa aceea răsună limpede un sunet
+cristalin: cling—cling, cling—cling. Uşile săriră în lături şi din odaia cea
+mare năvăli o lumină atît de puternică, încît copiii rămaseră încremeniţi în
+prag, exclamînd uimiţi,
+Tata şi mama se îndreptară spre uşă şi, luîndu—i pe copii de mînă, le spuseră:
+— Veniţi, hai veniţi, dragi copii!
+2. DARURILE
+Mă adresez ţie, mult iubite cititor sau auditor Fritz, Theodor, Ernst, ori cum
+te—oi fi chemînd, şi te rog să—ţi aduci aminte cît mai bine de ultimul tău
+pom de Crăciun, împodobit sărbătoreşte cu fel de fel de daruri.
+De bună seamă că atunci îţi vei putea închipui cum s—au oprit în prag, muţi
+de uimire, cu ochi strălucitori, şi cum de—abia după un răstimp Măria a
+izbutit să exclame, oftînd adînc:
+— Vai, ce frumos! Vai, ce frumos!
+Iar Fritz execută cu mult succes cîteva tumbe. E drept că şi copiii fuseseră,
+desigur, foarte cuminți şi ascultători în tot cursul anului, căci niciodată nu au
+primit atît de multe lucruri frumoase şi încîntătoare ca acum.
+Bradul înalt de pe masa din mijlocul camerei gemea de mere aurite şi
+argintate, iar pe toate ramurile crescuseră, asemenea mugurilor şi bobocilor,
+migdale zaharisite, bomboane poleite şi tot soiul de alte dulciuri îmbietoare.
+
+Dar ce avea mai frumos bradul minunat erau sutele de lumînărele, sclipind ca
+stelele în ramurile sale, iar el însuşi, iluminîndu—se şi luminînd, îmbia
+prietenos copiii să—i culeagă bobocii şi fructele.
+În jurul pomului, toate străluceau în culori vii, încîntătoare, şi erau atîtea...
+cine le—ar fi putut zugrăvi!
+Măria zări păpuşi graţioase, tot felul de scule mici, îngrijit lucrate, dar, dintre
+toate, lucrul cel mai atrăgător era o rochiţă de mătase, frumos împodobită cu
+panglici de toate culorile, atîrnată în aşa fel pe umeraş, în faţa Măriei, încît
+fetiţa o putea privi din toate părţile, lucru pe care îl făcu de îndată, exclamînd
+mereu:
+— O, frumoasa, draga mea rochiţă! Şi pe asta o voi putea îmbrăca, o voi
+îmbrăca eu?
+Între timp, înconjurînd de trei—patru ori masa,Fritz încercase în galop şi în
+trap noul roib, pe care îl găsise într—adevăr înşeuat lîngă pom. Descălecînd,
+spuse că roibul ar fi o bestie sălbatică, dar, nu face nimic, o să ştie el să—l
+strunească.
+Apoi trecu în revistă noul escadron de husari îmbrăcaţi tare mîndru, în aur şi
+roşu, purtînd arme numai de argint şi călărind nişte cai albi aşa de strălucitori,
+încît mai că te puteai gîndi că şi ei sînt de argint curat.
+Ceva mai potoliţi, copiii tocmai voiau să se repeadă la cărţile cu poze, gata
+deschise, ca ei să poată privi tot soiul de flori frumoase, de oameni, ba chiar şi
+copii drăguţi şi jucăuşi, toate înfăţişate atît de firesc, încît ziceai că trăiesc şi
+vorbesc cu adevărat. Da, copiii tocmai aveau de gînd să se repeadă la aceste
+cărţi minunate, cînd clopoţelul mai sună o dată.
+Ei ştiau că acum naşul Drosselmeier le va împărţi daruri şi alergară la masa
+aşezată lîngă perete. Paravanul după care naşul stătuse atîta vreme ascuns a
+fost repede dat la o parte.
+Şi iată ce le—a fost dat copiilor să vadă! Pe o pajişte verde, presărată cu flori
+multicolore, se înălţa un castel fermecător, cu ferestre argintii şi turnuri de
+aur. În cameră plutea sfios melodia unui carillon1.
+Uşile şi ferestrele castelului se deschiseră, lăsînd să se vadă cum se plimbă
+prin săli perechi pe cît de mici, pe atît de graţioase, domni purtînd pălării cu
+pene şi doamne cu rochii lungi cu trenă.
+În sala de mijloc, ce părea cuprinsă de flăcări de atîtea lumînărele care ardeam
+în candelabrele lor de argint , copii în hăinuţe şi rochiţe scurte se—nvîrteau în
+ritmul melodiei.
+Un domn, cu o manta ca smaraldul, privea deseori printre fereastră, făcea
+semne cu mîna şi dispărea din nou. Însuşi naşul Drosselmeier, nu mai mare
+decît degetul mic al lui tata, apărea din cînd în cînd jos, la uşa castelului, şi
+intra iar înăuntru.
+Sprijinit cu coatele pe masă, Fritz privi o vreme castelul şi figurinele care se
+plimbau şi dănţuiau şi apoi zise:
+— Nene Drosselmeier! Lasă—mă şi pe mine să intru o dată în castelul tău.
+
+1
+Ceas cu anumite sunete muzicale plăcute; maşinărie muzicală(n.tr.)
+
+Consilierul de curte îl lămuri că aceasta nu ar fi cu putinţă. Avea dreptate, căci
+Fritz era nesăbuit:
+Auzi, să intre într—un castel care, cu turnurile sale aurite cu tot nu era nici cît
+el de înalt! Pînă la urmă Fritz recunoscu acest lucru.
+Dar, după o vreme în care, mereu în acelaşi mod, doamnele şi domnii se
+plimbau de colo pînă colo, copiii se jucau, omul ca smaraldul privea prin
+aceeaşi fereastră, naşul Drosselmeier ieşea pe aceeaşi uşă, Fritz strigă
+nerăbdător:
+—Nene Drosselmeier, hai, ieşi o dată şi pe uşa de colo!
+—Asta nu se poate, dragă Fritz, îi răspunse consilierul de curte.
+—Ei, atunci fă—l numai o dată, continuă Fritz, fă—l numai o dată pe omul
+verde care se uită afară să se plimbe cu ceilalţi.
+—Nici asta nu e cu putinţă, răspunse din nou consilierul de curte.
+—Atunci să coboare copiii, strigă Fritz, vreau să—i privesc mai de aproape.
+—Ei, toate astea sînt cu neputinţă, zise Drosselmeier, pierzîndu—şi răbdarea;
+aşa cum a fost făcută, aşa trebuie să rămînă maşinăria.
+—Aşa—a—a? se miră Fritz lungind vorba. Toate astea nu sînt posibile?
+Ascultă, nene Drosselmeier, dacă flecuşteţele tale cele împopoţonate, din
+castel, nu sînt în stare să facă altceva decît mereu şi mereu acelaşi lucru,
+atunci nu fac nici doua parale şi, în cazul asta, nu prea mă omor după ele. Nu.
+Atunci îmi sînt mai dragi husarii mei. Ăştia trebuie să mărşăluiască înainte şi
+înapoi, după cum vreau eu,şi nici nu stau închişi în vreo casă.
+Zicînd acestea, o zbughi la pomul de Crăciun, puse escadronul său de
+cavalerie să tropăie de colo pînă colo, să facă întoarceri, şarje şi să tragă cu
+puşca după pofta inimii sale.
+Măria se îndepărtase şi ea, tiptil. Se plictisise privind păpuşile cum se plimbă
+întruna prin castel, dar, fiind mai ascultătoare şi mai bună, nu voise să arate
+asta atît de făţiş ca fratele ei.
+Cam supărat, consilierul de curte le spuse părinţilor:
+— O operă atît de măiastră nu e de nasul unor copii neînţelegători. O să—mi
+împachetez iar castelul.
+Mama se apropie de el şi îl rugă să—i arate interiorul maşinăriei, precum şi
+ingeniosul angrenaj, gîndit cu cea mai mare iscusinţă, prin care erau puse în
+mişcare micile păpuşi.
+Consilierul desfăcu şi apoi refăcu totul. În felul acesta, el se înveseli din nou şi
+le dărui copiilor cîţiva omuleţi cafenii, cu feţele, mîinile şi picioarele aurite.
+Spre bucuria lui Fritz şi a Măriei, erau cu toţii din Thorn şi miroseau foarte
+plăcut şi îmbietor a turtă dulce.
+Sora lor, Luise, îmbrăcase, la dorinţa mamei, frumoasa rochie pe care o
+căpătase, şi era tare drăgălaşă. Cînd i se ceru să—şi pună şi ea rochiţa, Măria
+răspunse că ar vrea să mai privească puţin. Acest lucru i—a fost îngăduit cu
+dragă inimă.
+
+3. OCROTITUL
+De fapt, Măria nici nu avea de gînd să se despartă de pomul de Crăciun, din
+pricina unui lucru pe care nu—l descoperise din prima clipă.
+După plecarea la instrucţie a husarilor lui Fritz, care pînă atunci stătuseră cu
+arma pentru onor, la piciorul bradului ieşise la iveală un omuleţ grozav, care
+pînă atunci se ţinuse modest şi liniştit deoparte, de parcă ar fi aşteptat răbdător
+să—i vină şi lui rîndul.
+E drept că înfăţişarea sa lăsa mult de dorit. Trecînd peste faptul că trupul
+puternic, ceva cam lung, nu se potrivea cu picioruşele sale mici şi subţiri, avea
+şi un cap care părea mult prea mare.
+Îl schimba însă în bine îmbrăcămintea cochetă, ce lăsa să se întrevadă un om
+de gust şi cultură. Purta o tunică de husari strălucitoare, violet, foarte
+frumoasă, cu multe fireturi şi nasturi de culoare albă, pantaloni de acelaşi fel
+şi cele mai mîndre cizmuliţe încălţate vreodată de vreun student, ba chiar şi de
+un ofiţer.
+Ele îi veneau ca turnate pe picioarele fine, de ziceai că i le—a pictat cineva.
+Ciudat era totuşi că la asemenea îmbrăcăminte îşi atîrnase la spate o manta
+îngustă, ţeapănă, ce părea din lemn, şi—şi pusese pe cap o cască de miner.
+Dar Măria se gîndi că nenea Drosselmeier, chiar dacă ar fi la fel de dichisit, tot
+n—ar arăta aşa de drăguţ ca prichindelul acela. Şi, privindu—l o dată, şi încă o 
+
+dată pe omuleţul simpatic, pe care l—a îndrăgit la prima vedere, Măria îşi
+dădu seama de—a binelea cîtă blîndeţe era întipărită pe chipul său.
+Ochii lui verzi, spălăciţi, puţin cam prea mari şi bulbucaţi, revărsau numai
+prietenie şi bunăvoinţă. Barba moale, de bumbac alb, bine pieptănată, care îi
+îmbrăca bărbia, îl prindea de minune; ea lumina şi mai mult zîmbetul duios de
+pe buzele sale roşii.
+— O, tată! exclamă în sfîrşit Măria. O, tată, al cui o fi omuleţul acela drăgălaş
+de lîngă pom?
+— Acela, răspunse tatăl, acela, fetiţa mea, va trebui de acum înainte să
+lucreze vîrtos pentru voi toţi. El o să vă spargă nucile tari, şi—ţi aparţine
+deopotrivă ţie, lui Fritz şi lui Luise.
+Zicînd acestea, tatăl luă cu grijă de lîngă brad şi, îndată ce—i ridică mantaua
+de lemn, omuleţul căscă o gură mare, mare de tot, descoperind două şiruri de
+dinţi albi şi ascuţiţi. La îndemnul tatălui, Măria vîrî o nucă înăuntru şi crac
+omul o sparse. Cojile se risipiră, iar Măria rămase cu miezul dulce în mînă. Ca
+şi Măria, fiecare dintre voi, ar trebui să ştiţi că omuleţul graţios se trăgea din
+neamul spărgătorilor de nuci şi că se—ndeletnicea cu meseria înaintaşilor săi.
+Măria chicoti de bucurie şi atunci tatăl îi spuse:
+— Draga mea, de vreme ce amicul Spărgător—de—Nuci îţi place atît de
+mult, ţi—l las mai ales ţie să—l îngrijeşti şi să—l aperi, fără să uiţi însă că şi
+Luise şi Fritz au asupra lui aceleaşi drepturi ca şi tine.
+Măria îl luă imediat de braţ şi—l puse să spargă nuci, dar le alesese pe cele
+mai mici, pentru ca omuleţul să nu fie silit să caşte gura mare, ceea ce, la drept
+vorbind, nici nu—i stătea prea bine. Măriei i se alătură Luisa, amicul
+Spărgător—de—Nuci trebuind acum să o slujească şi pe ea.
+Părea că o face cu plăcere, deoarece zîmbea întruna foarte prietenos. Între
+timp, obosit de atîta instrucţie şi călărie şi auzind hazul celorlalţi, Fritz veni în
+grabă lîngă surorile sale, rîzînd din inimă de omuleţul drăgălaş, care acum,
+cînd mînca şi Fritz, trecea din mînă în mînă şi nu mai prididea cu clămpănitul.
+Fritz îi tot băga în gură nucile cele mai mari şi mai tari, pînă cînd, deodată
+crac, crac trei dinţişori îi căzură, iar falca începu să—i joace în balamale.
+—Vai, sărăcuţul meu Spărgător—de—Nuci! se vaită Măria, smulgîndu—l
+din mîinile lui Fritz.
+—Ce nătărău şi ăsta, spuse Fritz, vrea să fie spărgător de nuci şi n—are nici
+măcar dinţi ca lumea! Se vede că nu—şi cunoaşte meseria, la dă—l încoace,
+Măria. O să—mi sparg nuci, chiar de—o fi să—i sară măselele cu fălci cu tot.
+Doi bani nu face neisprăvitul ăsta!
+—Nu, nu, ţipă Măria, nu ţi—l dau! Uită—te cu cîtă tristeţe mă priveşte şi—mi
+arată gura rănită! Dar tu ai o inimă de piatră; îţi baţi caii şi eşti în stare să
+îngădui chiar împuşcarea unui soldat!
+—Ce ştii tu! Asta aşa trebuie să fie, se răţoi Fritz, şi apoi
+Spărgătorul—de—Nuci este tot aşa de bine al meu ca şi al tău. Ia dă—l
+încoace!
+
+Măria începu să plîngă în hohote şi—l înfăşură repede în mica ei balistă pe
+bolnăviorul Spărgător—de—Nuci. Părinţii şi naşul se apropiară de ei.
+Drosselmeier, spre necazul Liariei, luă partea lui Fritz. Tatăl însă spuse:
+— Nu încape discuţie, Spărgătorul—de—Nuci se află sub ocrotirea Măriei, şi
+deoarece, după cum văd, el are tocmai acum nevoie de îngrijire, Măria are
+depline puteri asupra lui, fără ca altcineva să aibă dreptul să se amestece.
+De altfel, mă miră foarte mult că Fritz mai poate da ordine cuiva care s—a
+îmbolnăvit în timpul serviciului. Ca ostaş destoinic, ar putea să ştie foarte bine
+că răniţii nu sînt niciodată puşi în front.
+Fritz se ruşina şi fără să—i mai ardă de nuci, nici de Spărgătorul—de—Nuci,
+o şterse de partea cealaltă a mesei, unde husarii săi, după ce aşezaseră nişte
+avanposturi straşnice, se retrăseseră în bivuacurile lor.
+Măria adună dinţişorii pierduţi ai Spărgătorului—de—Nuci, legă în jurul
+fălcii bolnave o panglicuţă albă, desprinsă din rochiţa ei, şi—l înfăşa apoi cu
+şi mai multă grijă în batistă pe bietul omuleţ, care arăta foarte palid şi speriat.
+Astfel înfăşurat, îl legănă în brațe, ca pe un copil, şi privi frumoasele imagini
+din noua carte cu poze, care se afla între celelalte daruri. Ea se supără foc —
+ceea ce nu—i prea era în fire cînd naşul Drosselmeier rîse cu poftă,
+necăjind—o că alintă un prichindel atît de pocit, şi, amintindu—şi ce se
+gîndise cînd îl zărise prima oară pe micuţul Spărgător—de—Nuci, spuse
+foarte serioasă:
+— Cine ştie, dragă nașule, dacă tu, dacă te—ai găti ca drăguţul meu
+Spărgător—de—Nuci şi te—ai încălţa cu cizmuliţe la fel de frumoase şi de
+strălucitoare ca ale lui, cine ştie dacă măcar atunci ai arăta atît de frumuşel ca
+el.
+Măria nu pricepu deloc de ce părinţii rîseră cu atîta veselie şi de ce
+consilierului de curte i se înroşi nasul şi nu mai chicoti atît de voios ca înainte.
+Trebuie să fi existat vreun motiv.
+
+4. MINUNĂŢII
+Cînd intri pe uşa salonului în casa familiei Stahlbaum, imediat pe stînga, lipită
+de un perete, dai de o vitrină în care copiii îşi păstrează toate acele lucruri
+frumoase, primite de ei în fiecare an. Luise era încă mică de tot cînd tatăl ei îi
+ceruse unui tîmplar foarte priceput să—i facă un dulap căruia meşterul îi
+pusese nişte geamuri atît de străvezii şi îl orînduise cu atîta îndemînare, încît
+toate păreau înăuntru aproape mai strălucitoare şi mai frumoase decît atunci
+cînd le ţineai în mînă.
+În raftul cel mai de sus, la care Măria şi Fritz nu puteau ajunge, erau aşezate
+operele măiestre ale naşului Drosselmeier. Imediat dedesubt, se afla raftul
+cărţilor cu poze. Măria şi Fritz aveau voie să umble după cum credeau de
+cuviinţă la ultimele două rafturi. De obicei, Măria făcea din raftul cel mai de
+jos locuinţă pentru păpuşile ei, iar Fritz ordona trupelor sale să se
+încartiruiască în cel de deasupra. Aşa se întîmplase şi astăzi, căci în timp ce
+sus Fritz cantona husarii, jos, Măria, după ce o dăduse deoparte pe madmazel
+Trudchen şi o aşezase în camera frumos mobilată pe noua ei păpuşă, luxos
+îmbrăcată, se invită la ea să mănînce dulciuri. După cum am mai spus, camera
+era într—adevăr foarte bine mobilată. Nu ştiu zău dacă tu, Măria, atenta mea
+ascultătoare, ai, ca şi micuţa Stahlbaum (ştii demult că şi pe ea o cheamă
+Măria), dacă tu, zic, stăpîneşti, ca şi ea, o mică sofă frumos înflorată, mai 
+
+multe scăunele adorabile, o măsuţă de ceai, dar mai cu seamă un pătuţ
+drăgălaş şi lustruit, în care se odihnesc cele mai frumoase păpuşi. Toate
+acestea stăteau în colţul vitrinei ai cărei pereţi erau frumos tapetaţi cu poze
+multicolore. Îţi închipui că noua păpuşă — care se numea, după cum aflase
+Măria chiar în seara aceea, madmazel Kirchen nu avea de ce să nu se simtă
+bine în camera aceea.
+Era tîrziu, se apropia de miezul nopţii... Naşul Droselmeier plecase demult,
+dar copiii tot nu se îndurau să se dezlipească de lîngă vitrină, cu toate
+îndemnurile mamei, care îi trimitea întruna la culcare.
+— E adevărat, spuse în sfîrşit Fritz, sărmanii flăcăi (înţelegînd prin asta
+husarii săi) vor să se odihnească şi ei, şi atîta vreme cît mai sînt aici, ştiu bine
+că nici unul n—o să îndrăznească să moțăie măcar o clipă.
+Şi, zicînd acestea, plecă la culcare. Măria însă se rugă tare mult:
+— Numai o clipă, o clipă mică de tot mai lasă—mă aici, mamă! Mai am
+puţină treabă şi cînd termin vin eu singură la culcare.
+Măria era un copil tare cuminte şi înţelegător, şi de aceea mama ei putea, fără
+nici o grijă, s—o mai lase puţin singură cu jucăriile ei. Dar ca nu cumva Măria
+să fie prea ispitită de noua păpuşă sau de celelalte jucării, ori să uite aprinse
+lumînările care ardeau în jurul dulapului, mama le stinse pe toate; rămase doar
+lampa atîrnată în mijlocul tavanului şi care răspîndea o lumină blîndă şi
+plăcută.
+— Să vii repede, Măria, altfel mîine n—ai să te poţi scula la timp, spuse
+mama, îndreptîndu—se spre dormitor.
+După ce rămase singură, Măria porni repede să înfăptuiască ceea ce îi stătea
+pe suflet; ceva ce, nici ea nu ştia din ce pricină, nu—i destăinuise mamei, îl
+mai ţinea încă în braţe, înfăşurat în batista ei, pe Spărgătorul—de—Nuci cel
+bolnăvior. Îl aşeză acum cu grijă pe masă, desfăcu încet—încet batista şi—i
+cercetă rănile. Spărgătorul—de—Nuci era foarte palid şi totuşi zîmbea, dar
+atît de duios şi de îndurerat, încît Măriei i se strînse inima de milă.
+— Vai, micuţul meu Spărgător—de—Nuci, murmură ea, nu fi supărat de răul
+pe care ţi l—a făcut fratele meu. N—a făcut—o dinadins. Sălbatica—i
+meserie de soldat l—a înăsprit puţin. Altminteri, crede—mă, e un băiat foarte
+bun. Acum însă vreau să te îngrijesc cu multă dragoste pînă ce vei fi iarăşi
+sănătos tun. Naşul Drosselmeier, care se pricepe bine la aşa ceva, îţi va pune
+din nou dinţii şi—ţi va prinde la loc umărul.
+N—apucă însă bine Măria să—şi termine vorba şi să rostească numele de
+Drosselmeier, că omuleţul îşi strîmbă gura cumplit şi din ochi îi ţîşniră scîntei
+verzi, strălucitoare. Dar tocmai cînd Măria era gata să se sperie de—a binelea,
+chipul Spărgătorului—de—Nuci căpătă iar înfăţişarea—i sinceră şi zîmbetul
+amar de mai înainte. Şi ea îşi dădu seama că flacăra lămpii, mişcată de un
+curent de aer, a pricinuit schionosirea feţei Spărgătorului—de—Nuci.
+— Oare nu—s o fată neroadă, că mă sperii atît de uşor şi—mi pot
+închipui că pînă şi această păpuşică de lemn se poate strîmba la mine? Mi—e
+totuşi foarte drag Spărgătorul—de—Nuci, pentru că este atît de caraghios, şi
+în acelaşi timp atît de blajin, şi de aceea trebuie să fie îngrijit cum se cuvine.
+
+Apoi Măria îl luă în braţe pe micul Spărgător—de—nuci, se duse la vitrină şi,
+îngenunchind în faţa acesteia, îi vorbi astfel păpuşii celei noi:
+— Madmazel Kirchen, te rog foarte mult, dă pătucul tău
+Spărgătorului—de—Nuci, care—i bolnav şi rănit, iar tu mulţumeşte—te cu
+sofaua. Gîndeşte—te că eşti sănătoasă şi în puteri, altfel n—ai avea nici
+obrajii atît de graşi şi de rumeni, şi, afară de asta, foarte puţine păpuşi, chiar
+dintre cele mai frumoase, au nişte sofale atît de moi.
+Madmazel Kirchen, gătită cu podoabele ei strălucitoare de Crăciun, luă un aer
+foarte demn şi posac şi nu spuse nici pîs.
+— Dar ce—mi bat eu atîta gura de pomană! zise Măria.
+Trase patul şi după ce, încetişor şi cu grijă, îl culcă pe
+Spărgătorul—de—Nuci, îi mai înfăşură umărul rănit cu panglica ce o purta de
+obicei în jurul mijlocului. Apoi îl înveli bine pînă peste bărbie.
+— Dar ce, am să—l las neascultătoarei Kirchen? mai spuse ea şi puse pătuţul
+în care era Spărgătorul—de—Nuci în raftul de deasupra; şi astfel pătuţul
+ajunse să stea lîngă frumosul sat în care erau cantonaţi husarii lui Fritz. Fetiţa
+închise dulapul şi tocmai se pregătea să se ducă în dormitor cînd, deodată —
+ia ascultaţi, copii — cînd deodată, încet—încet, se porniră de pretutindeni, din
+dosul sobei, din spatele scaunelor, din spatele dulapurilor, şuşoteli, şoapte,
+foşnete.
+Pendula începu să zbîrnîie tot mai tare, dar nu reuşi să bată. Măria privi
+într—acolo. Marea bufniţă aurită de deasupra întinsese capul ei urît, ca de
+pisică, şi, cu ciocul încovoiat, îşi lăsă în jos aripile, acoperind cu ele tot ceasul.
+Zbîrnîitul nu mai contenea, preschimbîndu—se în cuvinte desluşite:
+Ceas, ceas, cease, ceasuri
+Ticăiţi cu stinse glasuri,
+Stinse glasuri,
+Regele şoarece e bun de ureche
+Haţ—haţ, bum—bum,
+Ia cîntaţi.
+Cîntaţi—i litanie veche
+Sfîrr—sffrr, bum—bum
+Ceasu—i bate, bate—acum
+În curînd regele—i scrum,
+Și — bum—bum — se auziră foarte înfundat şi răgușit douăsprezece lovituri.
+Pe Maia o trecură fiorii şi, înspăimîntată, era gata—gata să fugă, cînd,
+deodată, îl zări cocoţat pe pendulă, în locul bufniţei, pe naşul Drosselmeier, cu
+poalele hainei gălbui atîrnîndu—i de o parte şi de alta a ornicului. Măria
+nu—şi pierdu cumpătul şi exclamă printre sughiţuri:
+— Nene Drosselmeier, nene Drosselmeier! Ce cauţi acolo sus? Dă—te jos şi
+nu mă mai speria aşa, răutăciosule!
+Atunci se porni din toate părţile un chicotit şi un chiţcăit turbat, şi mii de
+picioruşe prinseră să alerge de după pereţi, iar prin crăpăturile duşumelelor se
+iţiră mii de luminiţe. Dar nu erau luminiţe. Nu! Ci mici ochi scînteietori. Şi 
+
+Măria se dumiri că de peste tot şoarecii o măsurau din ochi şi—şi croiau
+drum. Apoi se auzi trop—trop şi hop—hop prin cameră. Cete tot mai multe şi
+mai mari de şoareci foiau de colo—colo, pentru a se rîndui în cele din urmă
+într—o coloană de marş, aşa cum obişnuia Fritz să—şi încoloneze soldaţii
+cînd pregătea vreo bătălie. Acest lucru i se păru foarte hazliu Măriei şi,
+deoarece nu—i era scîrbă de şoareci ca atîtor copii, tocmai era gata să—şi
+vină în fire din spaima ce—o trăsese, cînd, dintr—o dată se auziră chiţcăieli
+atît de sîcîitoare şi de ascuţite, încît fata simţi un fior, de parcă un bulgăre de
+gheaţă i—ar fi alunecat de—a lungul şirei spinării. O Doamne, şi ce i—a mai
+fost dat să vadă!
+Ştiu bine, stimate cititor Fritz, că ai o inimă bărbată, asemenea acelei înţelepte
+căpetenii de oşti, Fritz Stahlbaum. Dar de—ai fi văzut tu ceea ce i s—a ivit
+Măriei în faţa ochilor, tare mă tem că ai fi dat bir cu fugiţii, ba cred chiar că ai
+fi sărit degrabă în pat şi ţi—ai fi tras pătura peste cap, mult mai sus decît ar fi
+fost nevoie. Dar, vai, Măria nici nu a putut să facă una ca asta, căci,
+gîndiţi—vă numai: aproape de tot, lîngă picioarele fetei zburau, zvîrlite de
+puterea întunericului, nisip, cioburi de cărămidă, iar din pămînt au răsărit,
+şuierînd şi chiţcăind amarnic, şapte capete de şoareci, încununate cu şapte
+coroane strălucitoare. Apoi, într—o clipă, ieşi la iveală şi trupul pe grumazul
+căruia creşteau cele şapte capete.
+Întîmpinîndu—l cu urale pe şoarecele cel mare, gătit cu şapte diademe,
+întreaga armată chiţcăi de trei ori în cor, cu putere, şi — hop—hop, trop—trop
+unîndu—se dintr—o dată în mişcare, o porni de—a dreptul spre vitrină, de—a
+dreptul spre Măria, care stătea încă acolo, lîngă uşa de sticlă. De spaimă şi
+groază, Măria, căreia şi mai înainte îi bătuse inima aşa de tare, încît crezuse
+că—i va sări inima în piept şi va muri, simţi acum că îi îngheaţă sîngele în
+vene.
+Pe jumătate leşinată, se trase înapoi clătinîndu—se, şi — clir—clir şi zirrr —
+geamul vitrinei pe care—l lovi cu cotul căzu în cioburi la pămînt. În clipa
+aceea, Liaria simţi o durere ascuţită în braţul stîng, dar parcă îşi mai şi veni în
+fire. Nu mai auzi nici un hiţcăit şi nici un fluierat, totul se linişti şi, deşi nu
+îndrăznea să privească prin cameră, nădăjduia totuşi că şoarecii, speriaţi de
+geamul spart, s—au tras înapoi în găurile lor. Dar ce mai era şi asta? Chiar în
+spatele Măriei, în dulap, se iscă gălăgie şi glasuri subţirele strigară:
+Hai sculaţi—vă şi voi,
+Vrem să mergem la război,
+Cît mai este noapte—n toi,
+Hai şi voi,
+La război!
+Şi, în acelaşi timp, răsună, cristalin şi îmbietor,clinchetul unor clopoţei
+melodioşi.
+— O, ăsta e carillon—ul meu! exclamă Măria bucuroasă şi se trase
+repede într—o parte.
+
+Şi atunci văzu cum vitrina prinde să se lumineze, şi cum înăuntru toate
+forfotesc şi se rînduiesc într—un chip ciudat. Cîteva păpuşi umblau de colo
+pînă colo, dînd din mîinile lor micuţe. Cît ai clipi, Spărgătorul—de—Nuci se
+ridică, aruncă pătura cît colo şi, sărind din pat, cu amîndouă picioarele
+deodată, scrîşni cu putere din dinţi:
+Cros, cros, cros,
+Guzgan păcătos!
+Ce mai ponos,
+Guzgan păcătos!
+Cris şi cros,
+Ce ponos!
+Îşi trase spada, o flutură în aer şi strigă:
+— Voi, dragii mei vasali, prieteni şi fraţi, vreţi să—mi staţi alături în
+lupta asta grea?
+Imediat, trei Scaramuşi, un Pantalon, patru Coşari, doi Ceteraşi şi un Tambour
+strigară voiniceşte:
+— Da, măria ta, o credinţă statornică ne leagă de tine. Te vom urma la
+luptă, la moarte sau la izbîndă.
+Şi se avîntară după înflăcăratul Spărgător—de—nuci, care se—ncumetă să
+facă un salt primejdios de pe raftul de sus.
+De altfel, ei nu se temeau să sară jos, de vreme ce purtau bogate veşminte de
+pînză şi mătase, şi pe dinăuntru erau făcuţi numai din cîlţi şi bumbac. De
+aceea, bufniră de pămînt ca nişte baloturi de vată. Dar bietul
+Spărgător—de—Nuci, sărmanul, cu siguranţă că şi—ar fi frînt braţele şi
+picioarele, căci închipuiţi—vă de la raftul de sus de unde stătea şi pînă la cel
+de jos erau aproape două palme, iar corpul lui era atît de fragil, ca şi cum ar fi
+fost cioplit din lemn de tei. Da, Spărgătorul—de—Nuci şi—ar fi rupt fără
+îndoială braţele şi picioarele, dacă în clipa aceea Kirchen nu s—ar fi repezit
+de pe sofa şi nu l—ar fi prins în braţele ei moi pe eroul cu spada trasă.
+— Vai, draga, buna mea Kirchen, suspină Măria, cum m—am înşelat în
+privinţa ta! Cu siguranţă că i—ai fi dat cu mult drag pătuţul amicului
+Spărgător—de—Nuci.
+Iar madmazel Kirchen vorbi, strîngîndu—l uşor la pieptul ei de mătase pe
+tînărul erou:
+— O, de—aţi vrea dumneavoastră, domnul meu, bolnav şi rănit cum
+sînteţi, să nu vă avîntaţi în luptă şi primejdii! Priviţi—i pe curajoşii
+dumneavoastră supuşi cum se adună însetaţi de luptă şi siguri de izbîndă!
+Scaramuşii, Pantalonii, Coşarii, Ceteraşii au şi ajuns jos, iar în raftul meu
+figurinele cu răvaş forfotesc şi se pregătesc de bătălie în văzul tuturor.
+O, ar fi mai bine, domnule, să vă odihniţi în braţele mele, ori să fiţi martorul
+victoriei de aici, de la înălţimea pălăriei mele cu pene!
+Aşa vorbi Kirchen. Dar Spărgătorul—de—Nuci nu avea deloc astîmpăr şi
+dădea atît de tare din picioare, încît Kirchen trebui să—l aşeze repede pe
+podea.
+
+În clipa următoare, el se lăsă foarte cuviincios într—un genunchi şi şuşoti:
+— Nobilă doamnă, în toiul bătăliei îmi voi aminti mereu cu deosebită stimă de
+dumneavoastră.
+Atunci Kirchen se aplecă spre el şi, apucîndu—l de braţe, îl ridică încetişor.
+Apoi desprinse repede cordonul ei frumos împodobit cu paiete şi voi să i—l
+pună prichindelului.
+Acesta însă se dădu doi paşi înapoi, duse mîna la piept şi rosti solemn:
+— O, doamnă, binevoiţi a nu vă irosi faţă de mine favorul dumneavoastră,
+căci... el se opri, oftă adînc, smulse iute de pe umăr panglicuţa cu care îl legase
+Măria, o lipi de buze şi, atîrnîndu—şi—o ca pe o eşarfă,sări peste stinghia
+dulapului pe podea, uşor şi îndemînatic ca o păsărică.
+Ţi—ai dat seama, fără îndoială, înalt şi prea stimat auditoriu, că
+Spărgătorul—de—Nuci simţise foarte limpede, încă înainte de a prinde cu
+adevărat viată, marea dragoste şi bunătate ce—i arătase Măria, Pentru că fetiţa
+îi devenise atît de dragă, el nu primise să poarte nici măcar o panglică de la
+madmazel Kirchen, deşi aceasta era foarte strălucitoare.
+Spărgătorului—de—Nuci i—a plăcut mult mai mult panglica modestă a
+Măriei.
+Oare ce se va întîmpla mai departe?
+De îndată ce Spărgătorul—de—Nuci ajunse pe podea, chiţcăitul şi şuieratul
+se porniră din nou. Vai, sub masa cea mare s—au adunat cîrdurile nefaste ale
+nenumăraţilor şoareci şi deasupra lor se înalţă dezgustătorul şoarece cu şapte
+capete.
+Ce—o să fie, ce—o să mai fie?
+
+5. BĂTĂLIA
+— Cheamă la atac general, credinciosule supus Tambour! strigă tare
+Spărgătorul—de—Nuci.
+Şi îndată Tambour se porni să bată toba cu atîta pricepere, că geamurile
+vitrinei se cutremurară şi zăngăniră gata să se spargă.
+În vitrină se auziră acum trosnituri şi huruieli, iar Măria văzu cum sar cu
+putere capacele tuturor cutiilor în care erau încartiruiţi soldaţii lui Fritz şi cum
+ostaşii se aruncară din raftul de sus, adunîndu—se jos în companii sclipitoare.
+Spărgătorul—de—Nuci alerga de colo—colo, adresînd trupei cuvinte de
+îmbărbătare:
+— Nu se aude nici un ticălos de gornist! răcni Spărgătorul—de—Nuci enervat
+şi, îndreptîndu—se repede către Pantalon, care, galben la faţă, tremura din
+toate încheieturile, i se adresă solemn: Generale, vă cunosc curajul şi
+experienţa de luptă. Aici totul atîrnă de spiritul de orientare şi de imediata
+folosire a momentului prielnic. Vă încredinţez comanda întregii cavalerii şi
+artilerii. De cal nu aveţi nevoie, aveţi picioare foarte lungi şi galopaţi cu ele
+destul de bine. Acum făceţi—vă datoria!
+Pantalon îşi duse de îndată degetele uscate şi lungi la gură şi şuieră atît de
+pătrunzător, de parcă o sută de goarne mici ar fi răsunat vesel.
+În dulap se porni un nechezat şi un tropăit grozav, şi iată că şi cuirasierii şi
+dragonii lui Fritz, în frunte cu husarii cei noi şi strălucitori, ieşiră în cîmp şi
+luară imediat poziţie jos pe podea.
+Apoi, regiment după regiment defila înaintea Spărgătorului—de—Nuci, cu
+drapelele desfăşurate şi cu muzica militară în frunte, şi se rîndui în şiruri largi
+de—a curmezişul camerei.
+În faţa lor trecură huruind tunurile, înconjurate de servanţi, şi îndată —
+bum—bum — începu canonada, iar Măria văzu cum nenumărate bucăţele de
+zahăr explodau în mijlocul grămezii mari de şoareci care, împroşcaţi din
+creştet pînă—n tălpi cu zahăr pudră, nu mai puteau de ruşine.
+Plasată pe scăunelul pentru picioare al mamei, o baterie grea provocă
+şoarecilor nenumărate pierderi; bum—bum—bum — trăgea neîncetat cu
+bucăţi de turtă dulce în grămada de şoareci, doborîndu—i unul după altul.
+Cu toate acestea, şoarecii se apropiau tot mai mult, învăluind chiar unele
+tunuri. Atunci se auzi însă prrr—prrr—prrr şi de atîta praf şi fum, Măria abia
+mai putu să vadă ce se întîmplă.
+Dar, un lucru era sigur: cele două armate se băteau fiecare cu mare îndîrjire şi
+izbînda înclina cînd de o parte, cînd de alta.
+Şoarecii desfăşurau trupe tot mai puternice, iar micile lor pilule argintii,
+aruncate cu multă îndemînare, nimereau pînă şi în vitrină.
+Disperate la culme, Trudchen şi Kirchen alergau năuce, frîngîndu—şi mîinile.
+—Să mor în floarea tinereţii, eu, cea mai frumoasă dintre păpuşi?! se văicărea
+Kirchen.
+
+—Oare de aceea m—am păstrat atît de bine, ca să pier aici chiar între cei patru
+pereţi ai mei?! bocea Trudchen.
+Apoi se aruncară una în braţele celeilalte şi se smiorcăiră atît de cumplit, că le
+puteai auzi, cu tot zgomotul turbat din jurul lor. Căci despre hărmălaia ce se
+pornise acum, nici nu vă puteţi face o idee, stimaţi cititori!
+Era un prrr—prrr—prrr, paf—pif, durudumdum, bum, burum, bum, burum,
+bum de—a valma, şi pe deasupra mai chiţcăiau şi urlau Regele Şoarecilor şi
+şoarecii săi.
+Apoi se auzea iarăşi vocea tunătoare a Spărgătorului—de—Nuci, dînd
+comenzi folositoare, şi putea fi văzut luînd comanda batalioanelor aflate în
+foc.
+Lui Pantalon îi reuşiseră cîteva strălucite şarje de cavalerie, şi el se acoperise
+de glorie. Husarilor lui Fritz însă, împroşcaţi cu ghiulele rău—mirositoare de
+artileria şoricească şi care lăsau nişte pete păcătoase pe tunicile lor roşii, le
+cam pierise cheful să înainteze.
+Pantalon îi puse să se retragă spre stînga şi, furat de plăcerea de a da comenzi,
+făcu acelaşi lucru şi cu cuirasierii şi dragonii săi, aşa că toţi se retraseră spre
+stînga şi porniră spre casă.
+Datorită acestui fapt, bateria postată pe scăunelul pentru picioare se afla în
+grea cumpănă.
+De altfel, nici nu trecu prea multă vreme, şi un puhoi de şoareci foarte urîţi
+năvăli cu atîta putere, dînd brînci din goană scăunelului, că acesta se răsturnă,
+cu tunuri cu tot. Spărgătorul—de—Nuci părea foarte descumpănit şi ordonă
+ca flancul drept să facă o manevră de repliere.
+Tu, dragul meu cititor Fritz, priceput în ale războiului, ştii că o astfel de
+manevră cam seamănă cu luatul la sănătoasa şi deplîngi de pe acum, alături de
+mine, nenorocirea ce urmează să se abată asupra armatei amicului
+Spărgător—de—Nuci, îndrăgit de Măria!
+Dar întoarce—ţi privirea de la această năpastă şi uită—te spre flancul stîng al
+armatei Spărgătorului—de—Nuci, unde totul mai e în bună regulă,
+îndreptăţind încă speranţele comandantului de oşti şi ale trupelor sale.
+În toiul celei mai înverşunate bătălii, de sub comodă se revărsă pe furiş potop
+de cavalerie şoricească, azvîrlindu—se cu furie şi chiţcăind îngrozitor, asupra
+flancului stîng al armatei Spărgătorului—de—Nuci.
+Dar de ce împotrivire se lovi!
+Domol, atît cît o permitea terenul accidentat trebuia escaladată stinghia
+dulapului — unitatea figurinelor cu răvaş înaintase sub comanda a doi
+împăraţi chinezi, grupîndu—se „en carre plein"2
+Aceste brave trupe. împestriţate, alcătuite din grădinari, tirolezi, tunguşi,
+frizeri, arlechini, cupidoni, lei, tigri, gorile şi maimuţe se luptau cu calm, curaj
+şi îndîrjire.
+
+2
+- (Fr.) în careu plin (n.tr.)
+
+Cu o adevărată vitejie spartană, acest batalion de elită ar fi smuls duşmanului
+victoria, dacă un îndrăzneţ căpitan de cavalerie inamic, înaintînd cu temeritate
+nemaivăzută, n—ar fi retezat dintr—o muşcătură capul unuia dintre împăraţii
+chinezi, iar acesta, în cădere, n—ar fi sfărîmat doi tunguşi şi o gorilă.
+Datorită acestui fapt, se produse o spărtură prin care pătrunse duşmanul şi, cît
+ai clipi, tot batalionul fu sfîşiat.
+Dar inamicul nu cîştigă mult de pe urma acestei fărădelegi. Nici nu apucă bine
+cîte un sîngeros şoarece—cavalerist să sfîşie în două, dintr—o muşcătură, pe
+unul dintre curajoşii adversari, că se şi trezi cu un răvaş tipărit la gît, din care
+pricină murea pe loc. Dar ajutat—a oare aceasta oştii
+Spărgătorului—de—Nuci, care, odată pornită pe repliere, se replia mereu şi
+pierdea tot mai mulţi oameni, astfel că nefericitul comandant, în fruntea unei
+cete foarte mici, abia dacă mai putea apăra o singură poziţie lîngă vitrină?
+— Să vină rezervele! Pantalon, Scaramuş, Tambour, unde sînteţi? strigă
+Spărgătorul—de—Nuci, punîndu—şi nădejdea în trupele proaspete ce s—ar
+mai fi putut mobiliza în vitrină. Şi chiar veniră cîţiva bărbaţi şi cîteva femei
+din Thorn, cu feţele, pălăriile şi coifurile lor aurite. Aceştia însă se bătură cu
+atîta neîndemînare, încît nu loviră pe nici unul dintre duşmani, ba, mai mult,
+fură cît pe ce să smulgă pălăria chiar de pe capul comandantului lor de oşti. De
+altfel, foarte curînd, chasseurii inamici le sfîrtecară picioarele, şi ei se
+răsturnară, zdrobind în cădere pe unii dintre tovarăşii de arme ai
+Spărgătorului—de—Nuci.
+Strîns încercuit de duşmani, el ajunse acum la capătul puterilor. Încercă să
+escaladeze stinghia vitrinei, dar picioarele îi erau prea scurte.
+Kirchen şi Trudchen, care zăceau cufundate în leşin, nu—l putură ajuta.
+Husarii şi dragonii fugeau ageri pe lîngă el, înapoi în dulap. Şi atunci, în
+culmea disperării, Spărgătorul—de—Nuci strigă:
+— Un cal, un cal, dau un regat pentru un cal!
+În clipa aceea, doi tiraliori inamici îl înşfăcară de mantaua lui de lemn, iar
+Regele Şoarecilor, chiţcăind triumfător din toate cele şapte gîtlejuri ale sale,
+se apropie în goană. Măria îşi pierdu cumpătul:
+— O, sărmanul meu Spărgător—de—Nuci! strigă ea, plîngînd în hohote, şi,
+pînă să—şi dea bine seama ce face, apucă papucul stîng şi—l zvîrli cu putere
+în Regele Şoarecilor, care se afla în grămada cea mai mare de şoareci. Totul se
+spulberă ca suflat de vînt. Măria simţi în braţul stîng o durere şi mai ascuţită
+ca înainte şi căzu leşinată la pămînt.
+
+6. BOALA
+Cînd se trezi din somnul ca de moarte, Măria era întinsă în pătuţul ei şi prin
+fereastra acoperită cu flori de gheaţă scînteia puternic soarele, luminînd
+întreaga cameră. Aproape de ea stătea aşezat un om străin; îl recunoscu numai
+decît pe chirurgul Wendelstern. Acesta spuse încet:
+— Se trezeşte!
+Mama se apropie atunci de ea şi o învălui într—o privire cercetătoare şi
+speriată.
+— Vai, mamă, şopti micuţa Măria, au dispărut oare toţi şoarecii? Şi bunul
+meu Spărgător—de—Nuci a fost salvat?
+—Ce tot îndrugi asemenea nerozii, Măria dragă!îi răspunse mama. Ce au
+de—a face şoarecii cu Spargătorul—de—Nuci? Copil rău ce eşti! Ne—ai
+făcut tuturora foarte multe griji şi necazuri. Aşa se intimplă cînd copiii sînt
+încăpăţînaţi şi nu—şi ascultă părinţii. Te—ai jucat pînă la miezul nopţii cu
+păpuşile. Ţi s—a făcut somn şi poate să te fi speriat vreun şoricel, deşi noi nu
+prea avem şoareci; în sfîrşit, ce să mai lungim vorba, ai spart cu cotul, un
+geam al vitrinei şi te—ai rănit atît de rău la braţ, încît domnul Wendelstern,
+care tocmai ţi—a scos ultimele cioburi din rană, e de părere că, dacă sticla
+ţi—ar fi tăiat vreo venă, ai fi putut rămîne cu braţul ţeapăn, ba chiar ai fi putut
+să mori. Mulţumesc lui Dumnezeu că m—am trezit la miezul nopţii şi, văzînd 
+
+că la o oră atît de tîrzie nu te afli în pat, m—am sculat şi m—am dus în salon,
+unde te—am găsit zăcînd fără cunoştinţă, într—un lac de sînge. Era cît pe ce
+să leşin şi eu de spaimă! Zăceai acolo şi în jurul tău erau împrăştiaţi o mulţime
+de soldaţi de plumb de—ai lui Fritz, păpuşi, figurine şi oameni de turtă dulce
+sfărîmaţi. Spărgătorul—de—Nuci zăcea pe braţul tău însîngerat şi, nu departe
+de tine, papucul tău stîng.
+— O, mami, mami, spuse Măria, vezi, astea erau urmele marii bătălii între
+păpuşi şi şoareci, iar de speriat m—au speriat şoarecii cînd au vrut să—l facă
+prizonier pe bietul Spărgător—de—Nuci, care comanda armata păpuşilor.
+Atunci am aruncat cu papucul în ei şi pe urmă nu mai ştiu ce mi s—a
+întîmplat.
+Wendelstern, chirurgul, îi făcu mamei un semn din ochi, şi aceasta îi spuse
+Măriei cu blîndeţe:
+— Nu te mai gîndi la toate acestea, fetiţo, linişteşte—te, nu mai e nici
+urmă de şoareci, iar micuţul Spărgător—de—Nuci stă sănătos şi vesel în
+vitrină.
+În cameră intră acum medicul consilier şi vorbi îndelung cu chirurgul
+Wendelstern; apoi îi luă Măriei pulsul şi ea auzi că e vorba de febră mare.
+Trebuia să rămînă în pat şi să ia doctorii, şi asta timp de cîteva zile, deşi în
+afară de braţul care o durea nu se simţea prea bolnavă şi nici prost dispusă.
+Măria ştia că micul Spărgător—de—Nuci scăpase teafăr din bătălie şi
+cîteodată i se părea, ca în vis, că—i aude desluşit glasul stins de durere:
+— Măria, aleasă doamnă, dumneavoastră vă datorez multe, dar puteţi
+face şi mai multe pentru mine!
+Zadarnic se frămînta Măria, vrînd să afle despre ce ar putea fi vorba. Nu—i
+venea nimic în minte.
+De jucat nu se putea juca din cauza braţului rănit şi, dacă voia să citească sau
+să răsfoiască puţin carțile cu poze, vedea numai stele licărindu—i în faţa
+ochilor şi trebuia să renunţe. Timpul îi trecea foarte greu şi aştepta cu
+nerăbdare amurgul, cînd mama se aşeza pe patul ei şi—i citea sau îi spunea
+poveşti multe şi frumoase.
+Tocmai isprăvise de povestit minunatul basm despre prinţul Facardin, cînd
+uşa se deschise şi naşul Drosselmeier intră spunînd:
+— Ei, trebuie, totuşi, să văd cu ochii mei cum îi merge Măriei mele rănite
+şi bolnave.
+Văzîndu—l pe naşul Drosselmeier în hăinuţa lui galbenă, Măriei îi apărură
+foarte viu în faţa ochilor întîmplările acelei nopţi în care
+,Spărgătorul—de—Nuci pierduse bătălia împotriva şoarecilor şi, fără voie,
+strigă supărată:
+— Vai, nene Drosselmeier, ai fost tare urîcios! Te—am văzut eu bine
+cum stăteai pe pendulă şi, pentru a nu izgoni şoarecii, o acopereai cu poalele
+hainei tale, să nu se audă prea tare. Am auzit eu foarte bine cum l—ai chemat
+pe Regele Şoarecilor! De ce n—ai sărit în ajutorul Spărgătorului—de—Nuci?
+De ce nu mi—ai venit mie în ajutor, urîciosule nene Drosselmeier? Spune,
+nu—i oare vina dumitale că eu trebuie să stau acum în pat rănită şi bolnavă?
+
+Mama întrebă foarte speriată:
+— Ce te—a apucat, dragă Măria?
+Dar naşul Drosselmeier se strîmbă în chip ciudat şi rosti cu o voce hîrîită şi
+monotonă:
+Nu vor ale pendulei glasuri
+Să se supună
+Nu sună
+Ceasuri,
+Nu sun—ale pendulei glasuri,
+Încete glasuri;
+Se aud clopoţei: cling—cling,
+Hinc şi henc, şi honc şi hanc.
+Păpuşică ce ţi—e frică!
+Clopoţeii au sunat,
+Fuge Şoarece—împărat,
+Vine bufniţa în zbor
+— pac şi pic, şi pic şi por —
+Clopoţeii bat bim—bum,
+Ceasurile fac tic—tac,
+Nu vor ale pendulei glasuri
+Să se supună,
+Nu sună
+Snor şi şnur, şi pir şi pur.
+Măria se uită ţintă şi cu ochii măriţi de spaimă la naşul Drosselmeier, care
+acum se schimbase cu totul şi arăta chiar mult mai urît ca de obicei,
+bălăbănindu—şi braţul drept ca o marionetă trasă de sfori. Naşul ar fi
+îngrozit—o de—a binelea, dacă mama n—ar fi fost de faţă şi dacă Fritz, care
+se strecurase între timp în cameră, nu l—ar fi întrerupt rîzînd din toată inima:
+— Ei, nene Drosselmeier, hohoti Fritz, eşti astăzi tare nostim! Te porţi de
+parcă ai fi muţunache al meu, pe care l—am azvîrlit demult după sobă!
+Foarte gravă, mama interveni:
+—Dragă domnule consilier de curte, asta—i o glumă foarte ciudată! Şi, în
+definitiv, ce aţi vrut să spuneţi?
+—Ei, Doamne, răspunse Drosselmeier rîzînd, oare nu recunoaşteţi cîntecul
+meu drăguţ, cîntecul ceasornicarilor? Obişnuiesc să îl cînt întotdeauna unor
+pacienţi ca Măria.
+Şi, aşezîndu—se repede lîngă patul Măriei, spuse:
+— Nu fi supărată că nu i—am scos Regelui Şoarecilor cei paisprezece
+ochi ai săi, dar nu era cu putinţă, în schimb, vreau să—ţi fac o mare bucurie.
+Cu aceste cuvinte, consilierul de curte vîrî mîna în buzunar şi—l scoase de
+acolo încet—încetişor pe Spărgătorul—de—Nuci, căruia îi pusese cu
+îndemînare la loc dinţişorii căzuţi şi îi vindecase falca înţepenită. Măria chiui
+de bucurie şi mama îi zise zîmbind:
+—Ei, vezi acum ce bun e naşul Drosselmeier cu Spărgătorul—de—Nuci?
+
+—Măria, trebuie să recunoşti, totuşi, o întrerupse Drosselmeier pe doamna
+medic consilier, trebuie să recunoşti că Spărgătorul—de—Nuci nu e chiar atît
+de chipeş. Cum a ajuns în familia lui atîta urîţenie şi cum a fost ea moştenită
+am să—ţi povestesc chiar acum, dacă vrei să mă asculţi şi dacă nu cunoşti
+povestea cu prinţesa Pirlipat, vrăjitoarea Mauserinks şi meşterul ceasornicar.
+—la spune—mi, se amestecă în discuţie şi Fritz, ia spune—mi, nene
+Drosselmeier, dacă ai pus la loc dinţii Spărgătorului—de—Nuci, şi dacă nici
+falca lui nu se mai bălăbăne, de ce nu l—ai încins cu o spadă?
+—Ei, răspunse destul de enervat consilierul de curte, cauţi pretutindeni nod în
+papură şi cîrteşti mereu. Ce mă priveşte pe mine, spada
+Spărgătorului—de—Nuci? Eu l—am vindecat la trup, n—are decît să—şi
+caute acum o spadă unde şi cum o să—i poftească inima.
+—Asta aşa e, exclamă Fritz, dacă—i flăcău de ispravă o să ştie el să—şi
+găsească arme!
+—Ei, Mărie, îşi reluă vorba consilierul de curte, spune—mi, cunoşti
+povestea—prințesei Pirlipat?
+—Nu, n—o cunosc, răspunse Măria, povesteşte—mi—o, nasule, hai,
+povesteşte—mi—o!
+—Sper, interveni doamna medic consilier, vreau să sper, dragă domnule
+consilier de curte, că această poveste n—o să fie tot atît de înspăimîntătoare ca
+tot ceea ce povestiţi dumneavoastră de obicei.
+—Nici vorbă, prea scumpă doamnă medic consilier, răspunse Drosselmeier,
+ceea ce voi avea cinstea să vă înfăţişez acum este plin de haz.
+—Povesteşte, hai, povesteşte—ne odată, dragă nasule! strigară copiii
+într—un glas, şi consilierul de curte începu:
+
+7. BASMUL DESPRE NUCA CEA CU COAJA TARE
+Mama lui Pirlipat era soţia unui rege, prin urmare o regină, iar Pirlipat, chiar
+în clipa venirii ei pe lume, o prinţesă de sînge. Din pricina frumoasei fetiţe din
+leagăn, regele nu—şi mai încăpea în piele de bucurie. Chiuia, juca şi ţopăia
+într—un picior, strigînd necontenit:
+— Iuhu, s—a văzut vreodată ceva mai frumos ca Pirlipat a mea? Iuhu!
+Şi toţi miniştrii, generalii şi preşedinţii, şi ofiţerii de Stat Major săreau, ca şi
+capul statului, de colo—colo, într—un picior, şi urlau cît îi ţineau
+puterile:
+— Nu, niciodată!
+De altfel, fără îndoială că de la facerea lumii nu s—a mai văzut un copil atît de
+frumos ca prinţesa Pirlipat.
+Feţişoara ei parcă era ţesută din fulgi subţiri de mătase alburie şi trandafirie.
+Ochişorii ei de safir se potriveau cu cîrlionţii, numai şi numai din fir de aur. Pe
+lîngă toate astea, micuţa Pirlipat mai venise pe lume cu două şiruri de dinţi...
+mărgăritare, nu altceva; la două ore după naştere, îl muşcase atît de tare de
+deget pe cancelarul statului, cînd acesta voise să—i cerceteze gingiile, încît
+văicărelile lui amarnice mai sînt pomenite şi astăzi:
+— Văleleuuuu!
+Alţii pretindeau însă că ar fi strigat:
+— Aoleu!
+În această privinţă, părerile sînt încă împărţite.
+Într—un cuvînt, micuţa Pirlipat îl muşcase pe cancelar zdravăn de deget şi
+ţara întreagă ştia acum că trupşorul îngeresc al lui Pirlipat adăposteşte şi spirit,
+şi temperament, şi înţelepciune.
+Cum spuneam, toţi erau bine dispuşi, numai regina părea foarte speriată şi
+neliniştită, şi nimeni nu ştia de ce. Dar bătător la ochi era mai ales faptul că ea
+pusese pătucul lui Pirlipat sub pază straşnică.
+Deşi uşile erau păzite de oşteni, în afara celor două îngrijitoare, care nu se
+dezlipeau de lîngă leagăn, alte şase stăteau noapte de noapte prin preajmă, în
+toate ungherele camerei.
+Dar lucrul cu totul năstruşnic şi de neînţeles era că fiecare din aceste şase
+îngrijitoare trebuia să ţină un cotoi în poală şi să—l mîngîie toată noaptea,
+silindu—l astfel să toarcă neîncetat.
+Este cu neputinţă ca voi, dragi copii, să ghiciţi de ce mama lui Pirlipat a luat
+toate aceste măsuri. Eu însă ştiu taina şi o să v—o împărtăşesc.
+Odată, la curtea mamei lui Pirlipat se adunaseră mulţi regi străluciţi şi prinţi
+de frunte, din care pricină era mare pompă la palat. Fuseseră organizate jocuri
+cavalereşti, comedii şi baluri de curte.
+
+Ca să le dovedească oaspeţilor că nu duce deloc lipsă de aur şi argint, regele
+s—a gîndit să vîre măcar o dată mîna pînă la cot în tezaurul coroanei şi să—i
+tragă un chef în toată legea.
+Aşadar, dădu ordin să se pregătească un mare ospăţ cu cîrnaţi, şi o nimerise
+tocmai bine, pentru că prim—bucătarul—şef al palatului îi comunicase că
+astronomul curţii anunţase chiar atunci perioada tăierilor. Regele se sui apoi
+în caleaşca şi porni să îi invite personal pe toţi regii şi prinţii la o gustare, doar
+aşa, ca să se poată bucura din plin de uimirea oaspeţilor la vederea unui
+asemenea ospăţ.
+Pe urma se adresă foarte prietenos doamnei regine:
+— Draga mea, tu ştii cît de mult îmi plac cîrnaţii! Regina ştia prea bine ce
+urmărise regele cînd îi spusese toate acestea. Nu dorise altceva, decît ca ea în
+persoană să se ocupe de pregătirea cîrnaţilor, o treabă deosebit de importantă,
+pe care o mai făcuse şi în alte dăţi.
+Marele vistiernic trebui să predea imediat la bucătărie uriaşul cazan de aur
+pentru fiertul cîrnaţilor, precum şi tingirile de argint. Apoi se încinse un foc
+mare cu lemn de santal.
+Regina îşi puse şorţul ei de bucătărie, din damasc, şi, nu mult timp după aceea,
+din cazan se ridicară îmbietoarele miresme ale fierturii de cîrnaţi. Mirosul
+ispititor pătrunse pînă în sala consiliului de stat. Regele, cuprins de o încîntare
+fără margini, nu se mai putu stăpîni:
+— Cu voia domniilor voastre! strigă el în treacăt şi alergă iute la
+bucătărie, o îmbrăţişa pe regină, amestecă puţin cu sceptrul său de aur în
+cazan şi, ceva mai liniştit, se întoarse la consiliul de stat.
+Sosi şi clipa însemnată în care slănina urma să fie tăiată în pătrăţele şi prăjită
+pe grătare de argint. Doamnele de onoare se retraseră, deoarece, din—tr—un
+afectuos devotament şi.din respect pentru domnescul ei soţ, regina voia să
+săvîrşească singură această treabă.
+Dar cum începu să sfîrîie slănina, o voce foarte subţirică şopti:
+— Surato, dă—mi şi mie din fripturică, vreau şi eu să mă ospătez! Doar şi
+eu sînt regină, dă—mi fripturică!
+Regina ştia bine că e doamna Mauserinks aceea care îi vorbea astfel. Madame
+Mauserinks trăia de un car de ani în palatul regal. Se pretindea a fi înrudită cu
+familia regală, ba chiar regină în împărăţia Gauzgania, şi ţinea o curte
+numeroasă sub cuptor.
+Regina era o femeie bună, milostivă şi, deşi nu prea voia să o recunoască pe
+madame Mauserinks ca regină şi soră, totuşi, în acea zi de sărbătoare, cu
+prilejul ospăţului, o cinsti din toată inima.
+— Arătaţi—vă, doamnă Mauserinks, puteţi mînca oricît din slănină.
+Atunci madame Mauserinks veni alergînd, veselă şi foarte sprintenă, sări pe
+cuptor şi apucă în lăbuţele ei mici şi fine slănina pe care i—o întindea regina,
+bucată după bucată. După ea se iviră însă toţi cumetrii şi cumetrele
+Mauserinks, ba chiar şi cei şapte fii ai săi.
+Speriată, regina nu se putu apăra. Norocul a fost că tocmai atunci intră
+doamna mareşal al curţii şi alungă oaspeţii obraznici, izbutind astfel să mai 
+
+salveze puţină slănină, care, după sfaturile matematicianului curţii, chemat
+degrabă în acest scop, a fost împărţită cu măiestrie ca să ajungă pentru toţi
+cîrnaţii.
+Răsunară tobe şi trîmbiţe, şi suveranii şi prinţii aflaţi acolo sosiră cu toţii la
+ospăţul de cîrnaţi, în strălucitoare haine sărbătoreşti, care pe cai albi, care în
+trăsuri de cristal.
+Regele îi primi cu o binevoitoare şi caldă prietenie. Apoi, ca şef al statului,
+purtînd sceptrul şi coroana, se aşeză în capul mesei.
+Dar, chiar în clipa în care se serviră lebărvurştii, se putu vedea cum regele se
+făcu tot mai palid, cum îşi ridică ochii spre cer şi oftă.
+O durere grozavă părea că—i răscoleşte sufletul. Iar cînd se aduseră la masă
+caltaboşii, regele se prăbuşi pe spate în jilţul său şi, cuprinzîndu—şi capul în
+palme, începu să geamă şi să plîngă.
+Toţi oaspeţii săriră de la masă. În zadar se strădui medicul curţii să ia pulsul
+nefericitului rege. Era limpede că un chin adînc, fără nume, îi sfîşia sufletul.
+În cele din urmă, după multe îndemnuri, după aplicarea unui tratament
+drastic, ca de pildă fulgi arşi şi altele asemenea, regele începu să—şi mai vină
+în fire. Abia auzit, bîigui cuvintele:
+— Prea puţină slănină!
+Atunci regina, zdrobită de durere, i se aruncă la picioare, jelindu—se:
+— Vai, sărman şi nefericit soţ regesc al nostru! Vai ce durere a trebuit să
+înduraţi! Dar iată, priviţi, vinovata se află aici, la picioarele voastre!
+Pedepsiţi—o, pedepsiţi—o cu străşnicie! Vai, doamna Mauserinks, cu cei
+şapte fii, cu cumetrii şi cumetrele ei au mîncat slănina şi...
+Zicînd acestea, regina căzu leşinată pe spate. Regele însă sări în picioare, plin
+de mînie, şi strigă:
+— Doamnă mareşal al curţii, cum s—a putut întîmpla una ca asta?
+Doamna mareşal al curţii povesti tot ceea ce ştia, iar regele hotărî să se
+răzbune pe madame Mauserinks şi pe familia ei, care mîncase slănina din
+cîrnaţii lui.
+Se întruni consiliul secret de stat şi se hotărî deschiderea unui proces
+împotriva doamnei Mauserinks şi confiscarea întregii ei averi.
+Dar regele, temîndu—se că între timp madame Mauserinks tot ar mai putea să
+mănînce din slănina lui, întreaga problemă a fost trimisă spre rezolvare
+ceasornicarului şi alchimistului curţii.
+Omul acela, care se numea la fel ca mine, Christian Elias Drosselmeier,
+promise ca printr—o operaţie deosebit de abilă să izgonească pe vecie din
+palat pe doamna Mauserinks şi întreaga—i familie.
+El născoci imediat nişte maşini mici, foarte ingenioase, de care erau legate cu
+un fir de aţă bucăţelele de slănină prăjite.
+Dar madame Mauserinks era mult prea înţeleaptă pentru a nu descoperi
+vicleşugul lui Drosselmeier. Toate sfaturile, toate avertismentele ei nu ajutară
+însă la nimic.
+Ispitiţi de mirosul îmbietor al slăninei prăjite, cei şapte fii ai ei precum şi
+cumetrele şi cumetrii doamnei Mauserinks nimeriră în maşinăriile lui 
+
+Drosselmeier, fiind prinşi, prin căderea unui grătar, tocmai în clipa în care
+voiau să fure bucăţica de slănină.
+Apoi fură executaţi cu toţii în mod ruşinos, chiar în bucătărie. Madame
+Mauserinks părăsi, cu mica ei ceată, locul groazei. Inima îi era plină de
+amărăciune, disperare şi dor de răzbunare.
+Curtea chiui de bucurie, dar regina era foarte îngrijorată, deoarece cunoştea
+firea doamnei Mauserinks şi ştia foarte bine că ea se va răzbuna.
+Aşa se şi întîmplă. Madame Mauserinks apăru tocmai cînd regina pregătea o
+tocană de bojoci, pe care soţul ei regesc o mînca întotdeauna cu o plăcere
+deosebită, şi zise:
+— Fiii mei, cumetrele şi cumetrii mei au fost ucişi. Bagă de seamă,
+doamnă, ca nu cumva Regina Şoarecilor să sfîşie pe micuţa ta domniţă! Bagă
+bine de seamă!
+După asta dispăru din nou şi nu se mai arătă. Regina însă se sperie atît de rău,
+că scăpă în foc tocana de bojoci şi, pentru a doua oară din vina doamnei
+Mauserinks, prăpădi o mîncare preferată a regelui, ceea ce—l înfurie cumplit
+pe monarh.
+— Ei, şi acum ajunge pentru astă seară, urmarea am să v—o spun altă
+dată.
+Cu toate că Măria, care în timpul povestirii frămîntase un anume gînd al ei, îl
+rugă tare mult pe naşul Drosselmeier să continue, el tot nu se lăsă înduplecat,
+ci, ridicîndu—se de pe scaun, spuse:
+—Prea mult e nesănătos. Destul, pe mîine.
+Tocmai cînd consilierul de curte era gata să iasă e uşă, Fritz îl întrebă:
+— Dar ia spune—mi, nene Drosselmeier, e chiar adevărat că tu ai
+născocit capcanele de şoareci?
+— Ei, cum poţi să pui întrebări atît de nesăbuite! exclamă mama.
+Consilierul de curte însă zîmbi foarte ciudat şi rosti aproape şoptit:
+— Eu, care sînt meşter ceasornicar, să nu pot născoci nişte curse de
+şoareci?
+
+8. URMAREA BASMULUI DESPRE NUCA CEA CU COAJA
+TARE
+— Ei, şi acum ştiţi foarte bine, copii, urmă consilierul de curte Drosselmeier,
+în seara următoare, acum ştiţi foarte bine şi voi de ce a pus regina să fie păzită
+cu atîta străşnicie pe neasemuit de frumoasa domniţă Pirlipat. Nu avea, oare,
+toate temeiurile să se teamă că madame Mauserinks îşi va duce la îndeplinire
+ameninţarea, că se va întoarce şi îi va sfîşia fetiţa?
+Maşinăriile lui Drosselmeier nu o puteau înşela pe înţeleaptă şi şireata
+doamnă Mauserinks. Astronomul curţii, care, în acelaşi timp, era şi
+prim—astrolog şi vraci confidenţial al palatului, pretindea că doar neamul
+cotoiului Schnuriva fi în stare s—o împiedice să se apropie de leagăn,
+Prin urmare, aceasta a fost pricina pentru care îngrijitoarele au fost obligate să
+ţină în poală cîte un fiu al acelei familii — angajaţi, de altfel, la curte, drept
+consilieri secreţi de legaţie — şi să caute, prin mîngîieri cuviincioase, să le
+îndulcească amarul serviciului de stat,
+Odată...era mult după miezul nopţii, una din cele două prim—îngrijitoare
+confidenţiale, care stăteau în imediata apropiere a leagănului, tresări trezită
+dintr—un somn adînc. De jur împrejur totul era adormit, nici un,cotoi nu
+torcea, o linişte de moarte în care se putea auzi scurgerea timpului!
+
+Prim—îngrijitoarei i se făcu negru în faţa ochilor cînd zări aproape de ea un
+şoarece foarte mare şi urît, care, proptit pe picioarele dinapoi, îşi culcase capul
+pe faţa prinţesei. Scoţînd un urlet de groază, prim—îngrijitoarea sări în
+picioare.
+Se treziră cu toţii, dar, în aceeaşi clipă, madame Mauserinks — căci ea era
+acel şoarece din leagănul lui Pirlipat — o zbughi într—un colţ al camerei.
+Consilierii de legaţie se aruncară pe urmele ei; prea tîrziu, însă... Doamna
+Mauserinks dispăruse printr—o crăpătură a podelei. Din cauza rumorii,
+micuţa Pirlipat se trezi şi izbucni într—un plîns jalnic.
+— Slavă Domnului, răsuflară uşurate îngrijitoarele, trăieşte!
+Dar ce mare le fu spaima cînd o priviră şi—şi dădură seama în ce hal ajunsese
+fermecătorul copil! În locul căpşorului de îngeraş, cu părul auriu şi obrajii
+roz—albi, se afla un cap gros, diform, împlîntat pe un trup pipernicit şi chircit.
+Ochii albaştri—azurii se preschimbaseră în nişte ochi spălăciţi, verzui,
+bulbucaţi, iar guriţa i se întinsese pînă la urechi. Regina era cît pe ce să se
+prăpădească de atîta bocet şi jale, iar camera de lucru a regelui a trebuit să fie
+tapisată cu vată, pentru că el se dădea necontenit cu capul de pereţi, strigînd cu
+voce jalnică:
+— Vai mie, monarh nenorocit!
+Mai nimerit ar fi fost să recunoască faptul că ar fi putut să mănînce cîrnaţii tot
+atît de bine şi fără slănină, lăsînd—o în pace pe madame Mauserinks şi tot
+neamul ei. Dar tatăl regesc al lui Pirlipat nici nu se gîndi la aşa ceva, ci
+netam—nisam aruncă întreaga vină pe alchimistul şi ceasornicarul curţii,
+Christian Elias Drosselmeier din Nurnberg, şi de aceea emise năstruşnicul
+ordin:
+— Într—un răstimp de patru săptămîni, Drosselmeier va trebui s—o
+readucă pe Pirlipat în starea de dinainte, sau cel puţin să arate un mijloc sigur
+şi neîndoielnic prin care se va putea înfăptui acest lucru; dacă nu, acolo unde îi
+stau picioarele îi va sta şi capul!
+Nu mică fu spaima lui Drosselmeier, dar, revenindu—i încrederea în
+măiestria şi norocul său, se apucă de treabă imediat. Cu multă îndemînare, o
+desfăcu în bucăţi pe prinţesa Pirlipat, îi deşurubă braţele şi picioruşele şi
+cercetă cu luare—aminte structura sa interioară.
+Dar aici descoperi, din păcate, că prinţesa, cu cît va creşte, cu atît va deveni
+mai hîdă. Atunci ceasornicarul nu mai ştiu pe unde să scoată cămaşa. O montă
+la loc pe prinţesă şi căzu într—o adîncă melancolie lîngă leagănul lui Pirlipat,
+de care n—avea voie să se îndepărteze nici o clipă.
+Trecuseră trei săptămîni... Era într—o miercuri cînd regele, cu ochii
+scînteietori de furie, băgă capul pe uşă şi strigă ameninţînd cu sceptrul:
+— Christian Elias Drosselmeier, vindec—o pe prinţesă, că de nu, va
+trebui să mori!
+Drosselmeier începu să plîngă amarnic, în vreme ce prinţesa Pirlipat spărgea
+veselă nuci. Pentru prima oară alchimistul băgă de seamă cu ce poftă
+neobişnuită ronţăia Pirlipat nucile, precum şi faptul că ea venise pe lume cu
+dinţişori.
+
+Într—adevăr, imediat după schimbarea ei, ţipa tot timpul, pînă cînd, într—o
+zi, căzîndu—i din întîmplare în mînă o nucă, o spărsese pe loc, îi mîncase
+miezul şi se liniştise. De atunci, îngrijitoarele nu mai conteneau să—i aducă
+nuci.
+— O, sfînt instinct al firii, misterioasă afinitate a tuturor elementelor! exclamă
+Christian Elias Drosselmeier. Tu îmi arăţi poarta care duce spre descifrarea
+tainei. Voi bate şi ea se va deschide.
+Ceru îngăduinţa să—i vorbească astronomului şi sub o pază straşnică fu dus
+pînă acolo. Cei doi domni se îmbrăţişară cu faţa scăldată în lacrimi, deoarece
+erau foarte buni prieteni; apoi se retraseră într—un cabinet secret şi răsfoiră
+multe cărţi care vorbeau despre instinct, despre atracţie şi repulsie şi despre
+alte asemenea lucruri misterioase.
+Cînd se lăsă noaptea, astronomul curţii cercetă stelele şi, cu ajutorul lui
+Drosselmeier, care, şi în această privinţă, era foarte priceput, alcătui
+horoscopul prinţesei Pirlipat.
+Era un adevărat chin: liniile se încîlceau tot mai mult şi mai mult. În sfîrşit —
+ce bucurie! —, în sfîrşit, le apăru limpede în faţa ochilor că, pentru a dezlega
+vraja care o urîțise şi pentru a fi iar la fel de frumoasă ca înainte, prinţesa nu
+avea nimic altceva de făcut decît să mănînce miezul dulce al nucii Krakatuk.
+Nuca Krakatuk avea o coajă atît de tare, încît un tun de calibru două sute cinci,
+trecînd peste ea, n—o putea sparge. Trebuia ca un bărbat, care nu se bărbierise
+încă niciodată şi nu purtase vreodată cizme în picioare, să spargă această nucă
+tare şi apoi, cu ochii închişi, să—i ofere prinţesei miezul. Tînărul avea voie să
+deschidă ochii abia după ce va fi făcut şapte paşi de—a—ndăratelea, fără să se
+împiedice.
+Drosselmeier şi astronomul lucrară trei zile şi trei nopţi fără întrerupere.
+Sîmbătă, cînd regele tocmai îşi lua micul dejun, Drosselmeier, căruia urma să
+i se taie capul duminică în zori, dădu năvală, chiuind plin de bucurie şi îi vorbi
+regelui despre leacul care avea să—i redea prinţesei frumuseţea pierdută.
+Regele îl îmbrăţişa cu deosebită bunăvoinţă şi îi făgădui o spadă bătută în
+diamante, patru decoraţii şi haine noi pentru sărbătoare.
+— Îndată după masă, adăugă regele prietenos, să se treacă la treabă.
+îngrijeşte—te, devotatul meu alchimist, să—l pregăteşti cum se cuvine şi pe
+tînărul cel nebărbierit şi încălţat cu pantofi, precum şi nuca Krakatuk.
+Nu—l lăsa să bea vin înainte, ca nu cumva să se împiedice cînd o să facă şapte
+paşi de—a—ndăratelea, ca racul. După aceea, poate să tragă un chef în toată
+legea.
+Drosselmeier se îngălbeni auzind vorbele regelui şi, plin de teamă, îi
+mărturisi, bîlbîindu—se, că leacul, ce—i drept, a fost aflat, dar că şi nuca, şi
+băiatul, trebuie mai întîi să fie căutaţi şi că nu se ştie dacă nuca şi cel ce va
+trebui s—o spargă vor fi găsiţi vreodată.
+Înfuriat la culme, regele flutură sceptrul deasupra capului său încoronat şi
+strigă cu o voce de leu:
+—Atunci, decapitarea! Aşa rămîne!
+
+Mare noroc avu nefericitul Drosselmeier, care se afla ia grea ananghie, că
+tocmai în ziua aceea regelui îi plăcuse foarte mult mîncarea şi de aceea era
+dispus să asculte vorbele înţelepte pe care le rosti mărinimoasa regină,
+înduioşată de soarta lui Drosselmeier.
+Drosselmeier prinse curaj şi dovedi pînă la urmă că, de fapt, el îşi îndeplinise
+misiunea, indicînd leacul cu care prinţesa putea fi vindecată şi că, astfel, el îşi
+salvase viaţa. Regele numi toate acestea pretexte prosteşti şi pălăvrăgeală
+neghioabă, dar hotărî totuşi după ce bău un păhărel cu apă minerală, ca, atît
+ceasornicarul cît şi astronomul să—şi ia picioarele la spinare şi să nu se
+întoarcă decît cu nuca în buzunar.
+În ceea ce priveşte omul care trebuia să spargă nuca, se stabili, prin
+intermediul reginei, să fie găsit prin inserarea repetată a mai multor anunţuri
+în ziarele locale şi străine, precum şi în revistele culturale...
+Consilierul de curte îşi întrerupse din nou basmul, promiţînd că în seara
+următoare va povesti răul sfîrşit al peripeţiilor.
+9. SFÎRŞITUL BASMULUI DESPRE NUCA CEA CU COAJA
+TARE
+În seara următoare, de îndată ce se aprinseră lumînările, naşul Drosselmeier se
+înfiinţa din nou şi povesti mai departe...
+
+Se împliniseră cincisprezece ani de cînd Drosselmeier şi astronomul curţii
+băteau drumurile, fără însă să fi dat de urmele nucii Krakatuk. Despre locurile
+pe unde călcaseră, despre întîmplările curioase prin care trecuseră, despre
+toate acestea v—aş putea povesti, dragi copii, timp de patru săptămîni.
+Dar nu asta vreau să fac; vreau doar să vă spun că Drosselmeier, cuprins de o
+adîncă tristeţe, simţi în cele din urmă un dor nespus de Nurnberg, oraşul său
+natal.
+Într—o zi, pe cînd se afla într—o mare pădure din Asia şi după ce fumase o
+lulea împreună cu prietenul său, dorul prinse a—l chinui mai tare ca niciodătă.
+O, frumos, frumos oraş Nurnberg,
+Nurnberg, oraş plăcut,
+Cine nu te—a cunoscut
+Bucurie n—a avut.
+La Londra, Peterwaldein, Paris,
+Se simte ca un proscris,
+Pacea nu o mai găseşte,
+Pururi dorul îl goneşte
+Spre tine, Nurnberg, ce eşti
+cu mîndre case şi fereşti.
+În vreme ce Drosselmeier bocea cu atîta foc, astronomul, cuprins de o adîncă
+milă, începu şi el să miorlăie atît de jalnic, încît putea fi auzit de—a lungul şi
+de—a latul Asiei. Se linişti însă încetul cu încetul şi, ştergîndu—şi lacrimile,
+întrebă:
+— Dar, stimate colega, de ce bocim şi ne pierdem vremea aici? De ce nu
+mergem la Nurnberg?
+Nu—i totuna unde şi cum vom căuta blestemata aceea de nucă Krakatuk?
+— Ba, zău, chiar aşa! răspunse Drosselmeier împăcat.
+Amîndoi se sculară, îşi scuturară pipele şi, ţinînd—o drept înainte, străbătură
+dintr—o suflare pădurea ce se afla în mijlocul Asiei şi ajunseseră la Nurnberg.
+De cum sosiră acolo, Drosselmeier dădu fuga la vărul său Cristoph Zaharias
+Drosselmeier — păpuşar, lăcuitor şi aurar — pe care nu—l văzuse de foarte
+mulţi ani, şi—i povesti toată tărăşenia cu prinţesa Pirlipat, cu doamna
+Mauserinks şi cu nuca Krakatuk. Nespus de uimit, Cristoph Zaharias
+Drosselmeier bătea necontenit din palme şi striga:
+— Vai, vere, vere, ce minunăţii mai sînt şi astea! Drosselmeier îi povesti,
+mai departe peripeţiile din timpul lungii sale călătorii, cum petrecuse doi ani
+la Regele Smochinelor, cum Principele Migdalelor îi refuzase în mod
+meschin sprijinul, cum făcuse cercetări zadarnice la societatea de ştiinţe
+naturale din Veveriţei, pe scurt, cum toate îi ieşiseră pe dos, fără să izbutească
+să descopere vreo urmă a nucii Karakatuk.
+În timp ce—l asculta, Cristoph Zaharias Drosselmeier pocnea mereu din
+degete, se învîrtea într—un picior, plescăia din limbă şi exclama:
+— Ha—ha! Hi—hi! Ce spui! Ei, pe dracu'! În sfîrşit, zvîrli în sus pălăria
+şi peruca, îşi îmbrățişă vărul cu putere şi strigă:
+
+— Vere, vere, eşti la adăpost, eşti la adăpost, măi vere, căci ar trebui să
+mă înşel al naibii, de n—am chiar eu nuca Krakatuk.
+Îndată scoase la lumină o cutie din care trase o nucă aurită, de mărime
+mijlocie.
+— Priveşte—o, rosti el, arătîndu—i vărului său nuca, priveşte—o, şi
+să—ţi spun ce s—a întîmplat cu ea.
+Odată, cu mulţi ani în urmă, pe vremea Crăciunului, a venit încoace un om
+străin cu un sac plin de nuci, pe care le vindea. Chiar în faţa dughenei mele de
+păpuşi, puse sacul jos, ca să se poată apăra mai bine, şi se luă la harţă cu
+vînzătorul de nuci de pe—aici, care, neputînd răbda ca străinul să vîndă nuci,
+se năpusti asupra lui.
+În clipa aceea, o căruţă încărcată cu vîrf trecu peste sac şi sparse toate nucile,
+în afară de una, pe care străinul, zîmbind ciudat, mi—o oferi în schimbul unui
+taler de aur din anul 1720. Lucrul mi se păru foarte neobişnuit; găsisem prin
+buzunarele mele un taler cum voia străinul, am cumpărat nuca şi am aurit—o,
+neştiind nici eu bine de ce am plătit atîta bănet pe ea şi de ce o preţuiam aşa de
+mult..
+Orice îndoială cum că nuca vărului n—ar fi cu adevărat mult căutata nucă
+Krakatuk, a fost iute spulberată, cînd astronomul curţii, chemat degrabă,
+zgîrie cu grijă aurul de pe nucă şi găsi crestat în coajă, cu litere chinezeşti,
+cuvîntul Krakatuk.
+Mare fu bucuria călătorilor, iar vărul Zaharis se consideră cel mai fericit om
+de sub soare, cînd Drosselmeier îl asigură că l—a apucat pe Dumnezeu de
+picior, deoarece, în afara unei pensii apreciabile, i se va da de acum înainte pe
+degeaba tot aurul ce—i trebuia pentru aurit.
+Alchimistul şi astronomul îşi trăseseră bonetele de noapte şi erau gata de
+culcare, cînd ultimul —adică astronomul — vorbi cam aşa:
+— Excelente colega, norocul nu vine niciodată singur. Credeţi—mă, noi
+n—am găsit numai nuca Krakatuk, ci şi pe tînărul care o va sparge şi îi va
+oferi prinţesei miezul frumuseţii. Vorbesc de fiul vărului dumneavoastră...
+După o clipă, continuă încîntat:
+— Nu, nici nu mă gîndesc să mă culc. Vreau să alcătuiesc chiar acum
+horoscopul tînărului.
+Zicînd acestea, îşi smulse scufiţa din cap şi începu să cerceteze stelele.
+Într—adevăr, fiul lui Cristoph Zahariusera un tînăr chipeş, care nu se
+bărbierise încă niciodată şi nici nu purtase cizme pînă atunci în frageda lui
+copilărie, cîteva Crăciunuri la rînd fusese, de fapt, un muţunache, dar asta nu
+lăsase nici un fel de urmări asupra lui, atît de mult fusese şlefuit prin
+străduinţele tatălui său.
+De Crăciun purta o frumoasă tunică roşie, cu fireturi de aur, spadă, pălăria sub
+braţ şi o minunată pieptănătură cu un conci mare la spate. Gătit atît de
+strălucitor, el stătea în dugheana tatălui său şi, cu o galanterie înnăscută, le
+spărgea fetelor nuci, din care pricină ele îl porecliseră dulce
+Spărgătorul—de—nuci.
+
+În dimineaţa următoare, astronomul, încîntat, îl prinse pe alchimist în braţe şi
+exclamă:
+— El este, îl avem, l—am găsit! Dar, dragă colega, trebuie să nu pierdem din
+vedere două lucruri: în primul rînd trebuie să—i împletiţi excelentului
+dumneavoastră nepot o cosiţă tare de lemn, care să fie astfel legată cu falca de
+jos, încît, încordînd ceafa, ca să poată face treabă bună. În al doilea rînd, odată
+ajunşi în oraşul de reşedinţă, trebuie să ascundem cu grijă faptul că l—am
+adus cu noi şi pe tînărul care sparge nuca krakatuk.
+Dimpotrivă, el trebuie să apară mult timp după noi. Desluşesc, din horoscop,
+că, după ce—şi vor rupe cîţiva măselele fără nici un folos, regele îi va promite
+celui ce va sparge nuca krakatuk şi va reda prinţesei frumuseţea pierdută, pe
+fiica lui de soţie şi întreaga împărăţie drept moştenire.
+Vărul cioplitor de păpuşi nu—şi mai încăpea în piele de fericire la gîndul că
+băiatul lui s—ar putea căsători cu prinţesa Pirlipat, devenind astfel prinţ şi
+rege; de aceea îl lăsă cu desăvîrşire în seama solilor.
+Coada pe care Drosselmeier o împleti promiţătorului său nepot era foarte
+izbutită, aşa încît băiatul trecu toate probele, în chip strălucit, spărgînd pînă şi
+cei mai tari sîmburi de măsline,
+Drosselmeier şi astronomul se grăbiră să vestească în capitală descoperirea
+nucii Krakatuk. Acolo se luară imediat măsurile necesare şi, cînd călătorii
+sosiră cu minunatul leac de frumuseţe, se şi prezentară mulţi tineri chipeşi,
+printre care şi prinţi care, încrezători în puterea danturii lor, se prindeau s—o
+dezlege pe prinţesă de vraja ei.
+Cei doi călători se speriară de—a binelea cînd o revăzură pe prinţesă. Trupul
+micuţ, cu mîinile şi picioarele pipernicite, abia dacă mai putea purta pe umeri
+trupul acela diform. Urîţenia fetiţei era sporită e o barbă albă de bumbac ce—i
+acoperea gura şi bărbia.
+Totul se petrecu după cum desluşise astronomul curţii în horoscop. Un ţîncău
+după altul îşi spărgea dinţii şi—şi rănea fălcile cu nuca Krakatuk fără a—i
+putea ajuta cît de puţin prinţesei. Iar cînd apoi, pe jumătate leşinat, era
+îndepărtat de dentiştii de serviciu, el ofta:
+— Tare mult mi—a mai dat de furcă! În cele din urmă, regele, neştiind ce
+să mai facă,îşi făgădui fiica şi împărăţia celui care va risipi vraja. Atunci se
+înfăţişă şi gingaşul şi aşezatul tînăr Drosselmeier, cerînd să—i fie şi lui
+îngăduit să—şi încerce puterile.
+Nici un alt tînăr nu—i plăcuse prinţesei Pirpilat atît de mult ca tînărul
+Drosselmeier. Ea îşi puse mînuţele pe piept şi oftă din adîncul inimii:
+— Ah, de—ar sparge el nuca Krakatuk şi ar deveni bărbatul meu!
+După ce tînărul Drosselmeier se înclină cu multă politeţe în faţa regelui şi a
+reginei, apoi înaintea prinţesei Pirlipat, primi din mîinile prim—maestrului de
+ceremonii nuca Krakatuk.
+O puse fără întîrziere între dinţi, încorda cu putere coada şi — crac—crac —
+coaja se sparse în bucăţele mici. Curăţă cu îndemînare miezul de firele ce mai
+atîrnau de el şi—l întinse prinţesei cu o reverenţă plină de supunere.
+
+După aceea, închise ochii şi începu să păşească de—a—ndăratelea. Prinţesa
+înghiţi miezul pe loc şi... minune între minuni! pocitania se topi, iar în locul ei
+răsări un trup îngeresc de femeie, cu faţa ţesută parcă din fulgi de mătase,
+bălai şi trandafirii, cu ochii asemenea unor safire strălucitoare, cu părul tot
+numai cîrlionţi de aur.
+Sunetele de surle şi tobe se împleteau cu uralele gălăgioase ale mulţimii.
+Regele şi întreaga curte săreau într—un picior de bucurie, ca atunci cînd
+venise pe lume Pirlipat, iar regina a trebuit să fie stropită cu apă de Colonia,
+pentru că leşinase de atîta fericire şi încîntare.
+Hărmălaia asta grozavă îl scoase total din fire pe tînărul Drosselmeier, care nu
+făcuse încă cei şapte paşi. El se stăpîni însă şi ridică piciorul drept pentru cel
+de—al şaptelea pas, cînd, din podea, ţîşni chiţcăind şi şuierînd, doamna
+Mauserinks.
+Drosselmeier, călcînd pe ea, se împiedică şi fu cît pe—aici să cadă! O, soartă
+nenorocită!
+Cît ai clipi, tînărul se făcu tot atît de urît precum fusese înainte Pirlipat. Trupul
+lui se închirci şi abia—şi mai putea duce pe umeri căpăţîna—i diformă cu
+ochii mari, bulbucaţi şi cu gura strîmbă, căscată îngrozitor.
+În locul cozii, îi atîrna pe spate o îngustă pelerină de lemn, cu care manevra
+falca de jos. Ceasornicarul şi astrologul mai să înnebunească de spaimă și de
+groază. Ei văzură însă cum doamna Mauserinks se tăvălea pe podea într—o
+baltă de sînge.
+Răutatea ei nu rămase nepedepsită, căci tînărul Drosselmeier îi înfipse tocul
+pantofului cu atîta putere în gît, încît Mauserinks era sortită pieirii.
+Cuprinsă de chinurile morţii, doamna Mauserinks chiţcăi şi piui plină de jale:
+O, nucă tare, Krakatuk,
+Tu să zdrobeşti cu un papuc,
+Hihi, paci—puci,
+Micuţe Spărgător—de—Nuci,
+Multe zile n—ai s—apuci.
+Fiul meu încornorat,
+Vai, ţi—o va plăti pe dat!
+Şi—aşa va fi răzbunat
+Cruntul meu asasinat,
+O, viaţa mea dulce foarte,
+Durerea morţii mă desparte
+De tine,
+Chiţ!
+Cu acest strigăt doamna Mauserinks dădu ortul popii, iar coşarul curţii o luă
+de acolo. De tînărul Drosselmeier nu se sinchisi nimeni în tot acest timp.
+Prinţesa îi aminti însă regelui de făgăduiala făcută şi acesta porunci ca tînărul
+erou să fie adus la faţa locului. Dar cînd nenorocitul apăru în toată urîţenia lui,
+Pirlipat îşi acoperi ochii cu mîinile şi strigă:
+
+— Piei, piei de aici, Spărgător—de—Nuci scîrbos!
+Fără prea multă vorbă, mareşalul curţii îl apucă de umerii săi înguşti şi—l
+azvîrli pe uşă afară. Regele, furios la culme că cineva încercase să—i impună
+ca ginere un Spărgător—de—Nuci, puse totul pe seama stîngăciei
+astronomului şi a ceasornicarului şi îi izgoni pe amîndoi, pe vecie, din
+capitală.
+E adevărat că aceste întîmplări nu erau scrise în horoscopul pe care
+astronomul îl desluşise la Nurnberg, dar asta nu—l împiedică să mai cerceteze
+o dată cerul şi să pretindă că tînărul Drosselmeier va face faţă atît de bine noii
+lui situaţii, încît, deşi pocit, va deveni prinţ şi rege.
+Urîţenia lui va dispărea atunci cînd îl va ucide chiar cu mîna lui pe fiul cu
+şapte capete al doamnei Mauserinks, născut după moartea celor şapte fii ai ei,
+şi care devenise Regele Şoarecilor, şi cînd o doamnă îl va iubi, în ciuda
+înfăţişării sale.
+Într—adevăr, se pare că pe la Crăciun tînărul Drosselmeier putea fi văzut la
+Nurnberg, în dugheana tatălui său, ca Spărgător—de—Nuci, ce—i drept, dar
+şi ca prinţ.
+Astfel îşi încheie consilierul de curte povestea.
+Măria fu de părere că prinţesa Pirlipat este o fiinţă urîcioasă şi
+nerecunoscătoare. Iar Fritz socoti că, dacă Spărgăţorul—de—Nuci este un
+flăcău vrednic, nu va pierde prea multă vreme cu Regele Şoarecilor, şi—şi va
+recuceri repede frumuseţea dinainte.
+
+10. UNCHIUL SI NEPOTUL
+Dacă vreunuia dintre prea respectaţii mei cititori sau auditori i s—a întîmplat
+cumva vreodată să se fi tăiat cu o sticlă, ştie cît de tare doare, şi, mai ales, că
+rana se vindecă foarte încet.
+Măria, de exemplu, a trebuit să stea în pat o săptămînă întreagă, fiindcă
+ameţea ori de cîte ori încerca să se ridice. Pînă la urmă,însă, ea se însănătoşi
+pe deplin şi, veselă ca de obicei, începu să se zbenguie iarăşi prin cameră.
+Vitrina era foarte băgătoare, căci în ea se găseau lucruri noi şi strălucitoare,
+pomi, flori şi case şi cele mai încîntătoare păpuşi.
+Îl regăsi în primul rînd pe dragul ei Spărgător—de—Nuci care, aşezat în cel
+de—al doilea raft, îi zîmbea cu gura pînă la urechi, dezvelindu—şi dinţii
+sănătoşi.
+Şi cum îl cerceta cu mare bucurie pe favoritul ei, Măria se nelinişti dintr—o
+dată foarte tare la gîndul că toate cele povestite de naşul Drosselmeier nu—s
+decît istoria Spărgătorului—de—Nuci şi a certei sale cu doamna Mauserinks
+şi cu fiul acesteia. Acum era sigură că Spărgătorul—de—Nuci al ei nu putea fi
+decît tînărul Drosselmeier din Nurnberg, simpaticul nepot al naşului
+Drosselmeier. De fapt, Măria nu se îndoise niciodată nici de faptul că
+meşterul ceasornicar de la curtea tatălui lui Pirlipat era chiar consilierul de
+curte Drosselmeier în persoană.
+— Dar de ce nu te—a ajutat unchiul, de ce nu te—a sprijinit, se jelea Măria
+care se convinsese de—a binelea că în bătălia aceea, la care luase şi ea parte,
+fuseseră în joc coroana şi împărăţia Spărgătorului—de—Nuci. Oare nu i se
+supuseseră lui toate păpuşile, şi nu era limpede că se împlinise prevestirea
+astronomului curţii şi tînărul Drosselmeier ajunsese rege în Ţara Păpuşilor?
+Cîntărind toate acestea în sinea ei, înţeleaptă Măria era sigură că, din moment
+ce atribuia viaţă şi mişcare Spărgătorului—de—Nuci şi vasalilor săi, ei ar
+trebui să trăiască şi să se mişte cu adevărat. Dar nu era aşa. Dimpotrivă. În
+vitrină totul rămînea ţeapăn şi lipsit de viaţă. Departe însă de a renunţa la
+convingerile ei, Măria punea toate acestea pe seama vrăjii doamnei
+Mauserinks şi a fiului ei cel cu şapte capete.
+— Dar, se adresă ea cu glas tare Spărgătorului—de—Nuci, chiar dacă nu
+sînteţi în stare să vă mişcaţi şi să schimbaţi măcar un cuvinţel cu mine, dragă
+domnule Drosselmeier, ştiu totuşi că mă înţelegeţi şi că ştiţi ce mult vă doresc
+binele. Vă puteţi bizui pe mine, în orice împrejurare. Pînă atunci am să—l rog
+pe unchiul dumneavoastră să vă ajute cu îndemînarea sa, ori de cîte ori va fi
+nevoie.
+Spărgătorul—de—Nuci nu se clinti şi nu scoase o vorbă, dar Măriei i se păru
+că un oftat uşor răzbătea prin dulap, făcînd să se audă dulce şi uşor clinchetul
+geamurilor, ca un glăscior cristalin care cînta:
+Micuţă Măria, îngeraşul meu,
+Eu voi fi al tău, îngeraşul meu.
+
+Măria îşi dădu seama că fiorii reci care o străbăteau îi pricinuiau, totuşi, o
+neobişnuită plăcere.
+Se înserase. Medicul consilier împreună cu naşul Drosselmeier intrară în
+cameră şi peste puţin timp Luise servi ceaiul, iar familia se aşeză în jurul
+mesei, povestind tot felul de lucruri vesele. Măria îşi aduse tiptil scăunelul ei
+cu spătar şi se aşeză la picioarele lui Drosselmeier. Într—un moment de tăcere
+generală, Măria îl privi pe consilierul de curte drept în faţă, cu ochii ei mari,
+albaştri, şi spuse:
+—Ştiu acum, dragă nene Drosselmeier, că Spărgătorul—de—Nuci este
+nepotul tău, tînărul Drosselmeier din Nurnberg. El a ajuns prinţ, ba chiar rege,
+după cum prevestise tovarăşul tău de drum, astronomul. Dar, ştii bine, se află
+într—un război aprig cu fiul doamnei Mauserinks, cu scîrbosul Rege al
+Şoarecilor. De ce nu—l ajuţi? Măria povesti încă o dată mersul întregii bătălii,
+tot ce văzuse, fiind adeseori întreruptă de hohotele de rîs ale mamei şi ale lui
+Luise. Doar Fritz şi Drosselmeier rămaseră serioşi. Medicul consilier îi
+întrerupse povestirea zicînd:
+—Cum şi—o fi băgat fetiţa toate aceste nebunii în cap?
+—Ei, mare lucru! răspunse mama. Are imaginaţie bogată. De fapt, nu—s
+decît vise provocate de o febră foarte puternică.
+— Nimic din toate astea nu—i adevărat, spuse Fritz, husarii mei roşii
+nu—s aşa poltroni. Altfel, pe toţi dracii, ce—aş mai intra în ei!
+Naşul Drosselmeier însă, zîmbind ciudat, o luă pe Măria pe genunchi şi—i
+spuse cu o voce mai blîndă ca niciodată.
+— Ehei, dragă Măria, ţie îţi este dat să treci prin mai multe în viaţă decît
+mie sau nouă tuturor. Asemenea lui Pirlipat, eşti o prinţesă înnăscută, căci eşti
+stăpîna unei împărăţii frumoase şi luminoase. Dar vei avea multe de suferit,
+dacă—ţi vei închina viaţa micului şi pocitului Spărgător—de—Nuci. El este
+urmărit pretutindeni de Regele Şoarecilor şi nu eu, ci tu, numai tu singură, îl
+vei putea salva. Rămîi hotărîtă şi credincioasă.
+Nici Măria şi nici ceilalţi nu pricepură ce a vrut să spună Drosselmeier cu
+vorbele sale, ba medicului consilier i se părură atît de stranii aceste vorbe,
+încît, cercetînd pulsul consilierului de curte, îi zise:
+— Am impresia, dragă prietene, că ţi s—a cam suit sîngele la cap. Hai să—ţi
+prescriu o doctorie.
+Numai doamna medic consilier clătină îngîndurată din cap şi şopti:
+— Bănuiesc eu unde—l duce gîndul pe consilierul de curte, dar mi—e
+greu s—o exprim desluşit.
+
+11. VICTORIA
+Nu după multă vreme, Măria fu trezită într—o noapte senină, cu lună, de nişte
+zgomote curioase, ce păreau să vină dintr—un colţ al camerei. Era ca şi cum
+cineva ar fi azvîrlit şi ar fi rostogolit nişte pietricele de colo—colo, în timp ce
+se auzea un chiţcăit şi un şuierat tare scîrbos.
+— Vai, şoarecii, vin iarăşi şoarecii! strigă Măria speriată şi încercă să o
+trezească pe mama. Dar vorbele i se opriră pe buze şi ea rămase încremenită
+cînd îl văzu pe Regele Şoarecilor care îşi croia drum printr—o gaură din
+perete şi care, cu ochi scînteietori, ţopăi mai întîi prin cameră, pentru ca apoi,
+dintr—o săritură, să ajungă drept pe măsuţa de noapte, lîngă patul Măriei.
+— Hi—hu—hu, trebuie să—mi dai bobițele tale de zahăr, marţipanul tău,
+micuţo, altfel îl voi sfîşia pe Spărgătorul—de—Nuci, pe Spărgătorul tău de
+Nuci! şuieră Regele Şoarecilor, clănţănind şi scrîşnind urît din măsele.
+Apoi o zbughi prin gaura din perete.
+Pe Măria o înspăimîntase atît de tare groaznica arătare, încît, a doua zi, foarte
+palidă şi neliniştită, abia mai putea rosti o vorbă. De cel puţin o sută de ori
+încercase să—i povestească mamei, lui Luise sau măcar lui Fritz ce i se
+întîmplase, dar tot de—atîtea ori se răzgîndi.
+„Parcă mă crede cineva, şi — pe deasupra — or să mai şi rîdă de mine", îşi
+spuse în sinea ei.
+
+Îşi dădea totuşi seama că, pentru a—l scăpa pe Spărgătorul—de—Nuci, va
+trebui să jertfească bobițele de zahăr şi marţipanul ei. De aceea, în seara
+următoare le puse pe toate în faţa stinghiei dulapului. A doua zi dimineaţa,
+doamna medic consilier spuse:
+— Nu ştiu de unde or fi apărut aşa deodată şoareci în salonul nostru.
+Uită—te, dragă Măria, ţi—au ronţăit toate dulciurile!
+Era adevărat, hulpavul Rege al Şoarecilor nu găsise pe gustul său marţipanul
+umplut, dar, cu toate acestea, îl ronţăise cu dinţii lui ascuţiţi, aşa că oricum
+trebuia să fie aruncat.
+Ce—i păsa însă Măriei de dulciuri! În sinea ei se bucura chiar, crezîndu—l
+salvat pe Spărgătorul—de—Nuci. Închipuiţi—vă dar ce simţi în noaptea
+următoare cînd auzi din nou chiţcăieli şi şuierături aproape de urechea ei. Vai,
+Regele Şoarecilor se înfăţişă iarăşi şi ochii îi sticleau parcă mai îngrozitor, şi
+şuiera şi chiţcăia printre dinţi, mai dezgustător decît noaptea trecută.
+— Trebuie să—mi dai păpuşile tale de zahăr şi drajeu, micuţo, altfel îl sfîşii
+pe Spărgătorul—de—Nuci, pe al tău Spărgător—de—Nuci!
+Şi, zicînd acestea, scîrbosul Rege al Şoarecilor dispăru din nou.
+Măria era foarte tristă.
+A doua zi se duse la vitrină şi, cu ochii îndureraţi, privi micile păpuşi de zahăr
+şi drajeu. De altfel, durerea ei era îndreptăţită, căci n—o să—ţi vină să crezi,
+Măria, prea atenta mea ascultătoare, cîte figurine drăguţe de zahăr şi drajeu
+avea mica Măria Stahlbaum... Un cioban ce păştea împreună cu ciobăniță sa o
+turmă de oiţe albe ca laptele, în timp ce căţeluşul lor vioi sărea primprejur, doi
+poştaşi ce mergeau cu nişte scrisori în mînă, plus patru adorabile perechi de
+tineri, băieţii frumos îmbrăcaţi şi fetele grozav de împodobite, legănîndu—se
+într—un scrînciob rusesc. În spatele cîtorva dansatori se afla arendaşul
+Feldkmmel şi Fecioara din Orleans, cărora Măria nu le dădea prea multă
+atenţie. Însă, în cel mai îndepărtat colţişor al vitrinei, stătea un copilaş cu
+obrajii rumeni, care era preferatul Măriei. Cînd îl văzu, ochii fetiţei se
+încărcară de lacrimi şi, întorcîndu—se către Spărgătorul—de—Nuci, zise
+oftînd:
+— Of, dragă domnule Drosselmeier, voi face orice pentru a vă salva, dar
+tare mi—e greu!
+Spărgătorul—de—Nuci arăta însă atît de nenorocit, încît Măria, care vedea
+parcă cele şapte guri ale Regelui Şoarecilor gata să—l înhaţe pe tînăr, se
+hotărî să—i sacrifice totul.
+De aceea, aşeză de cu seară,lîngă vitrină, aşa cum făcuse înainte cu dulciurile,
+toate păpuşile de zahăr. Sărută ciobanul, ciobăniță, oiţele şi, în cele din urmă,
+îl scoase şi pe copilaşul cel rumen, de drajeu, preferatul ei, pe care însă îl
+aşeză într—un loc cît mai ferit.
+Arendaşul Feldkmmel şi Fecioara din Orleans trebuiau să stea în rîndul din
+faţă.
+— Nu, asta—i prea de tot! exclamă a doua zi doamna medic consilier. Cu
+siguranţă că un şoarece mare şi scîrbos şi—a făcut culcuşul undeva, în vitrină,
+căci toate păpuşile de zahăr ale sărmanei Măria sînt roase şi morfolite.
+
+E adevărat că Măria nu reuşi să—şi stăpînească lacrimile, dar curînd zîmbi
+din nou cînd se gîndi:
+„Ce—mi pasă! Spărgătorul—de—Nuci e scăpat!"
+Seara, cînd mama îi povesti consilierului de curte năzbîtiile pe care un şoarece
+le face în vitrina copiilor, medicul consilier spuse:
+—E de—a dreptul enervant că nu putem distruge blestematul ăsta de şoarece,
+care—şi face mendrele în vitrină şi—i mănîncă Măriei toate dulciurile!
+—Ehei, interveni cu veselie Fritz, brutarul de jos are un minunat consilier de
+legaţie cenuşiu. Vreau să—l aduc sus. O să pună el repede capăt acestei
+poveşti şi o să smulgă capul şoarecelui, chiar de—ar fi doamna Mauserinks
+sau fiul ei, Regele Şoarecilor...
+—... şi, continuă rîzînd doamna medic consilier, o să zburde pe scaune şi mese
+şi o să azvîrle pe jos paharele şi ceştile şi o să ne facă o mulţime de pagube.
+—Ba nu, răspunse Fritz, consilierul de legaţie al brutarului este foarte
+îndemînatic. Ce n—aş da eu să pot umbla cu atîta graţie ca el pe acoperişurile
+ţuguiate ale caselor!
+—Orice, numai un cotoi în timpul nopţii nu! se rugă Luise, care nu putea
+suferi pisicile.
+—De fapt, spuse medicul consilier, de fapt, Fritz are dreptate, dar am putea
+pune şi o cursă. Oare nu avem nici una?
+—Cel mai bine ar fi să ne facă nenea Drosselmeier una, doar el le—a născocit,
+strigă Fritz.
+Toţi rîseră, iar cînd doamna medic consilier spuse că în casă nu se află nici o
+cursă de şoareci, consilierul de curte declară că el are cîteva şi trimise îndată
+să—i aducă de acasă o cursă straşnică.
+Pentru Fritz şi Măria basmul naşului despre nuca cea cu coaja tare prinsese
+viaţă. Cînd bucătăreasa prăji slănina, Măria, sub vraja basmului şi a
+minunăţiilor din el, spuse binecunoscutei Dora, tremurînd şi înfiorîndu—se:
+— Vai, doamnă regină, numai să vă feriţi de doamna Mauserinks şi de
+familia ei!
+Fritz, în schimb, trăgîndu—şi sabia, zise:
+— Ehei, numai de—ar veni vreunul, ce l—aş mai atinge!
+Pe cuptor şi sub cuptor totul rămase însă liniştit, în sfîrşit, consilierul de curte
+legă slănina cu un firicel de aţă şi puse cursa uşurel—uşurel sub vitrină, şi
+Fritz exclamă:
+— Nene ceasornicăriile, păzeşte—te ca nu cumva Regele Şoarecilor să—ţi
+joace în urechi!
+Dar vai, prin cîte îi fu dat Mariei să treacă în noaptea următoare! Ceva rece ca
+gheaţa umbla încoace şi încolo pe braţul ei şi i se lipi apoi, aspru şi scîrbos, de
+obraz, chiţcăindu—i la ureche. Pe umărul Măriei, încremenită de spaimă şi
+groază, se aşezase odiosul Rege al Şoarecilor. El căscă toate cele şapte boturi
+din care curgeau bale roşii ca sîngele şi, scrîşnind şi clănţănind din măsele, îi
+şuieră la ureche:
+Şuier—şuiera, 
+
+În casă nu intra,
+Mîncarea n—o mînca,
+Şi nu te vei preda.
+Şuier—şuiera,
+Nu uita, nu uita
+Cărţile ilustrate
+Şi rochiţele toate
+Pe dată să le dai,
+Altfel linişte n—ai,
+Fiindcă să ştii,
+Spărgătorul va pieri,
+Eu îl voi înghiţi,
+Hi—hi,
+Pi—pi,
+Chiţ—chiţ.
+Pe Măria o copleşi jalea şi tristeţea. Arăta tare palidă şi descumpănită cînd
+mama spuse a doua zi dimineaţa:
+— Păcătosul de şoarece tot n—a fost prins!
+Dar socotind că Măria jeleşte dulciurile pierdute sau că se teme de şoarece,
+continuă:
+— Nu fi neliniştită, fata mamei, gonim noi şoarecele ăsta rău. Dacă nu
+vor folosi cursele, o să—l punem pe Fritz să—l aducă pe consilierul său de
+legaţie.
+După ce rămase singură în salon, Măria se duse la vitrină şi, printre lacrimi, îi
+vorbi Spărgătorului—de—Nuci astfel:
+—Vai, bunul, dragul meu domn Drosselmeier! Ce pot face eu, o fată sărmană
+şi nenorocită, pentru dumneavoastră? Chiar dacă i—aş îngădui scîrbosului
+Rege al Şoarecilor să sfîşie toate cărţile ilustrate, ba chiar şi noua şi frumoasa
+mea rochiţă primită de Crăciun, oare n—o să ceară mereu alte şi alte lucruri,
+ca pînă la urmă, cînd nu voi mai avea nimic, să vrea să mă sfîşie chiar pe mine
+în locul dumneavoastră? Vai, biata de mine, ce să mă fac, ce să mă fac?
+Şi cum plîngea şi se jelea aşa, Măria observă că Spărgătorul—de—Nuci mai
+avea, din noaptea aceea, o mare pată de sînge pe gît. Dar se înfiora toată cînd
+simţi că Spărgătorul—de—Nuci începe deodată să se încălzească şi să se
+mişte în mîinile ei. Îl puse iute înapoi în raft şi atunci Spărgătorul—de—Nuci
+mişcă în falcă şi şopti cu mare greutate:
+— O, preacinstită demoiselle Stahlbaum, excelentă prietenă, dumneavoastră
+vă datorez totul! Nu, să nu sacrificaţi pentru mine nici una din cărţile ilustrate
+şi nici frumoasa rochiţă de Crăciun. Faceţi—mi rost doar de o spadă... de
+celelalte mă voi îngriji singur. Să încerce numai...
+Aici Spărgătorului—de—Nuci i se curmă vocea, iar ochii săi însufleţiţi, în
+care mai înainte era întipărită adîncă durere, redeveniră seci şi lipsiţi de viaţă.
+Măria nu se sperie deloc, ba dimpotrivă, sări în sus de bucurie, fiindcă ştia
+acum mijlocul de a—l salva pe Spărgătorul—de—Nuci fără să mai facă alte
+sacrificii. Dar de unde să—i găsească omuleţului o spadă?
+
+Se hotărî să—i ceară sfatul lui Fritz.
+Seara, stînd singuri în salon, în faţa vitrinei, căci părinţii plecaseră în oraş,
+fetiţa îi povesti tot ce se întîmplase cu Regele Şoarecilor şi de ce anume
+depinde salvarea Spărgătorului—de—Nuci. Nimic nu—l preocupa mai mult
+pe Fritz ca faptul că — potrivit relatării Măriei — husarii lui s—au comportat
+atît de rău în bătălie. Cu un aer foarte grav, el o întrebă pe Măria dacă lucrurile
+se petrecuseră precum povestise ea; după ce fetiţa îl încredinţa sub cuvînt de
+onoare că toate se întîmplaseră întocmai, Fritz se duse repede la vitrină şi le
+ţinu husarilor o cuvîntare patetică, iar, ca pedeapsă pentru egoismul şi
+laşitatea lor, le smulse, unul după altul, toate însemnele militare de pe coifuri
+şi le interzise ca timp de un an să mai intoneze marşul husarilor de gardă.
+După ce duse la bun sfîrşit misiunea sa de judecător, i se adresă Măriei:
+— În ceea ce priveşte sabia, o să—l pot ajuta pe Spărgătorul—de—Nuci,
+deoarece am pensionat ieri un colonel de cuirasieri, care, prin urmare, nu mai
+are nevoie de frumoasa sa spadă.
+Colonelul pomenit îşi consuma pensia acordată de Fritz în ungherul cel mai
+dosnic din cel de—al treilea raft. De acolo, Fritz îl scoase la lumină, îi luă
+spada de argint, care era frumoasă, şi îl încinse cu ea pe
+Spărgătorul—de—Nuci.
+De teamă şi nerăbdare, Măria nu reuşi să adoarmă în seara următoare şi, pe la
+miezul nopţii, i se păru că din salon se aud nişte zgomote furioase, foşnete şi
+zornăituri. Şi dintr—o dată auzi:
+— Chiţ!
+— Regele Şoarecilor! Regele Şoarecilor! strigă Măria, sărind îngrozită
+din pat.
+Nu se mai auzi nimic. După puţin timp însă cineva bătu uşor la uşă şi o voce
+subţirică spuse:
+— Preabună demoiselle Stahlbaum, deschideţi fără grijă, veşti bune!
+Veşti bune!
+Măria recunoscu vocea tînărului Drosselmeier, îşi trase rochiţa şi deschise
+degrabă uşa. Afară stătea Spărgătorul—de—Nuci, cu spada însîngerată
+într—o mînă şi cu o lumînare aprinsă în cealaltă. De cum o zări pe Măria, se
+lăsă într—un genunchi şi—i vorbi astfel:
+— Ah, preabuna mea demoiselle Stahlbaum, ce lucruri minunate v—aş
+arăta acum, cînd mi—am învins duşmanul, dacă aţi avea bunăvoinţa să mă
+urmaţi doar cîţiva paşi. Preabună demoiselle, vă rog, veniţi, veniţi!
+
+12. ÎMPĂRĂȚIA PĂPUŞILOR
+Cred, dragi copii, că nici unul dintre voi n—ar fi stat nici o clipă pe gînduri
+dacă să îl urmeze sau nu pe blîndul şi cinstitul Spărgător—de—Nuci, care nu
+ar fi putut nutri nici un fel de gînd rău. Cu atît mai puţin şovăi Măria, care ştia
+cît de mult se putea bizui pe recunoştinţa Spărgătorului—de—Nuci şi care era
+convinsă că se va ţine de cuvînt şi—i va arăta multe lucruri minunate.
+De aceea răspunse:
+— Merg cu dumneata, domnule Drosselmeier, dar nu cumva să fie prea
+departe sau să dureze prea mult, deoarece nu mi—am împlinit încă somnul.
+—Voi alege, aşadar, zise Spărgătorul—de—Nuci,drumul cel mai scurt, chiar
+dacă e puţin mai anevoios.
+El merse înainte şi Măria îl urmă, pînă ajunseră în faţa vechiului şi uriaşului
+dulap de haine, din antreu. Măria observă cu mirare că uşile dulapului, de
+obicei încuiate cu grijă, erau acum date în lături, iar în faţă de tot se vedea
+atîrnînd şuba îmblănită cu care tatăl ei pleca în călătorie.
+Cu multă îndemînare, folosindu—se de stinghiile şi ornamentaţiile dulapului,
+Spărgătorul—de—Nuci se caţără pînă cînd izbuti să apuce ciucurele prins cu
+un şnur gros de gulerul blănii.
+De îndată ce trase de ciucure, din mîneca îmblănită se lăsă în jos o scăriţă
+subţirică, de lemn de cedru.
+
+— Binevoiţi a vă sui, preascumpă demoiselle, o invită Spărgătorul—
+de—Nuci.
+Măria îl ascultă, dar de cum trecu prin mînecă şi dădu să iasă afară prin
+gulerul blănii, o întîmpină o lumină orbitoare şi se pomeni dintr—o dată pe o
+minunată pajişte parfumată, care scapără de milioane de scîntei, strălucitoare
+ca nestematele:
+— Ne aflăm pe pajiştea zahărului candel, spuse Spărgătorul—de—Nuci,
+dar să nu întîrziem să trecem prin portalul de acolo.
+De—abia acum, ridicîndu—şi privirea, Măria observă frumoasa poartă care
+se înălţa doar la cîţiva paşi în faţa ei, pe cîmpie. Părea construită din marmură
+pestriţă, albă, brună şi de culoarea stafidelor, dar cînd se apropie mai mult,
+Măria văzu limpede că materialul de construcţie era alcătuit în întregime din
+migdale zaharisite şi stafide, coapte la un loc, ceea ce — după cum o
+încredinţa Spărgătorul—de—Nuci — îi adusese numele de Poarta migdalelor
+şi a stafidelor. Unii cîrcotaşi o porecliseră, cu totul necuviincios, „haleala
+studenţilor".
+Pe una din galeriile portalului, făcută desigur din malţ, şase maimuţe
+îmbrăcate în hăinuţe roşii executau cea mai autentică muzică de bîlci, din
+pricina căreia Măria abia băgă de seamă că păşeşte mai departe, tot mai
+departe, pe lespezi multicolore de marmură, care însă nu erau altceva decît
+zaharicale frumos lucrate.
+Nu după mult timp, o învăluiră plăcutele miresme ale minunatei pădurici ce se
+întindea de o parte şi de alta a drumului. Din frunzişul întunecat, răzbătea o
+lumină atît de strălucitoare şi de sclipitoare, încît pe crenguţele pestriţe se
+vedeau desluşit atîrnînd fructe mari de aur şi argint; trunchiurile şi ramurile
+erau împodobite cu panglici şi buchete de flori, asemenea unor miri fericiţi şi
+nuntaşi veseli. Miresmele de portocali se unduiau asemenea adierii zefirului,
+frunzele foşneau, coroanele aurite trosneau şi pocneau şi totul suna ca o
+muzică veselă, în ale cărei sunete urmau să danseze şi să joace luminiţe
+scînteietoare.
+—O, cît e de frumos aici! exclamă fericită şi încîntată Măria.
+—Sîntem în pădurea Crăciunului, preabună demoiselle, răspunse
+Spărgătorul—de—Nuci.
+—O, Doamne, continuă Măria, de—aş putea zăbovi măcar o clipă aici! E atît
+de frumos!
+Spărgătorul—de—Nuci bătu din palmele lui micuţe şi cît ai clipi, apărură
+cîţiva ciobănaşi şi ciobănițe, vînători şi vînătoriţe, atît de subţirei şi de albi,
+încît puteai crede că sînt numai şi numai de zahăr; Măria nu—i observase pînă
+atunci, cu toate că şi ei se plimbaseră prin pădure.
+Aduseră un jilţ cu totul şi cu totul de aur, puseră pe el o pernă albă de reglisse3
+şi, foarte politicoşi, o poftiră pe Măria să se odihnească în el. Imediat,
+ciobăneii şi ciobăniţele dansară un balet cuminte, după o muzică foarte
+cuviincioasă, executată la corn de către vînători. Apoi dispărură.
+
+3 - Plantă folosită în medicină pentru fierberea unor poţiuni răcoritoare (n.tr.)
+
+—lertaţi—mă, spuse Spărgătorul—de—Nuci, iertaţi—mă, onorabilă
+demoiselle Stahlbaum, că dansul a ieşit atît de mizerabil, dar oamenii fac
+parte din baletul nostru mecanic; ei nu pot face decît mereu şi mereu acelaşi
+lucru; iar faptul că vînătorii au o melodie atît de molatică şi adormitoare, se
+explică de asemenea foarte uşor. Coşul cu zaharicale le atîrnă, ce—i drept,
+deasupra nasului în pomul de Crăciun, dar puţin cam sus! Nu vreţi, însă, să ne
+plimbăm puţin mai departe?
+—Ah, a fost cu toate astea foarte drăguţ şi mi—a plăcut tare mult! spuse
+Măria, sculîndu—se şi urmîndu—l pe Spărgătorul—de—Nuci, care îi
+deschidea drumul.
+Păşeau de—a lungul unui rîu ce murmura şi şoptea dulce şi din care păreau să
+se înalţe nenumăratele arome îmbietoare ce umpleau toată pădurea.
+— E Rîul Portocalelor, răspunse Spărgătorul—de—Nuci la întrebarea
+Măriei, dar, în afara parfumului său îmbătător, nu se aseamănă nici ca mărime
+şi nici ca frumuseţe cu Fluviul Limonadei, care se varsă, ca şi el, în Marea
+Laptelui—de—Pasăre.
+Şi într—adevăr, nu mult după aceea, Măria auzi un clipocit şi un susur mai
+puternic şi zări întinsul Fluviu—al—Limonadei, care, şerpuind între tufe
+verzi, strălucitoare, asemenea smaraldelor, curgea în valuri mîndre, de
+culoarea „isabel".4 Din apa cea minunată se ridica o suflare răcoroasă,
+deosebit de proaspătă, care îţi înviora plămînii şi inima. Nu departe se tîra
+greoi un fluviu gălbui—întunecat, ce răspîndea însă miresme nespus de dulci.
+De—a lungul lui stăteau tot felul de copii drăgălaşi ce prindeau peştişori pe
+care îi mîncau numaidecît. Apropiindu—se, Măria băgă de seamă că
+peştişorii arătau ca picromigdalele. La o oarecare distanţă, pe dealul de lîngă
+fluviu, se afla un sătuc tare frumuşel. Casele, biserica, şurile, casa parohială,
+toate erau zugrăvite brun—închis şi aveau acoperişuri aurite. De altfel, multe
+ziduri erau atît de pestriţe, c—ai fi zis că sînt acoperite peste tot cu migdale şi
+coajă de lămîie.
+— Ăştia—s Turtă—dulceştii, aşezaţi pe Fluviul—Mierii, rosti în treacăt
+Spărgătorul—de—Nuci. Trăiesc acolo oameni foarte cumsecade, dar de
+obicei amărîţi, pentru că suferă mult de durere de măsele; ar fi bine, deci, să
+nu mai mergem pînă acolo.
+În clipa aceea, în faţa Măriei apăru un orăşel foarte plăcut la vedere, cu case
+multicolore şi străvezii. Spărgătorul—de—Nuci mergea drept într—acolo, şi
+Măria auzi acum un vuiet vesel şi văzu cum mii de omuleţi drăguţi erau gata
+să descarce o mulţime de căruţe, încărcate cu vîrf, ce se opriseră în piaţă.
+Marfa pe care o scoteau la iveală semăna cu hîrtia viu colorată şi cu pachetele
+de ciocolată.
+
+4 - Isabelle - culoare cenuşie-deschisă. Denumirea culorii
+provine de la numele arhiducesei Isabelle de Austria, al cărui soţ asediase Ostenda.
+Arhiducesa jurase să nu-şi schimbe cămaşa pînă la căderea oraşului. Oraşul a rezistat trei ani
+şi numele principesei a fost atribuit culorii pe care cămaşa sa a căpătat-o în acest interval
+(n.a.)
+
+— Sîntem în Bomboneşti, spuse Spărgătorul—de—Nuci, tocmai a sosit
+un transport din Ţara—Hîrtiei şi de la Regele Ciocolatei. Nu demult, bieţii
+locuitori ai Bomboneştiului au fost năpăstuiţi de armata Amiralului Ţînţarilor,
+de aceea îşi acoperă casele cu darurile venite din Ţara Hîrtiei şi îşi ridică
+metereze din piesele grele trimise de Regele Ciocolatei. Dar, preabună
+demoiselle Stahlbaum, n—o să vizităm chiar toate orăşelele şi cătunele
+acestei ţări. Să mergem spre capitală, spre capitală!
+Spărgătorul—de—Nuci păşea grăbit înainte, iar Măria îl urma, plină de
+curiozitate. După puţin timp,în aer se simţi un minunat parfum de trandafiri şi
+totul în preajma lor părea învăluit într—o blîndă lumină trandafirie. Măria
+băgă de seamă că aceasta era reflexul unei ape cu străluciri purpurii, ce curgea
+în valuri mici, roz—argintii, clipocind şi murmurînd melodii încîntătoare.
+Pe această frumoasă apă ce se lăţea tot mai mult, ca un lac întins, pluteau
+lebede strălucitoare şi albe ca zăpada, cu salbe de aur în jurul gîtului, cîntînd
+laolaltă cîntece dulci, în ritmul cărora, ca într—un dans feeric, peştişori de
+diamant se înălţau şi se scufundau în apele trandafirii.
+— Ah! exclamă Măria, plină de uimire, ăsta—i lacul pe care a vrut să
+mi—l facă naşul Drosselmeier şi eu sînt fetiţa care va mîngîia lebedele cele
+blînde.
+Spărgătorul—de—Nuci zîmbi batjocoritor, cum Măria nu îl mai văzuse
+niciodată, şi spuse:
+—Unchiul nu va fi în stare să făurească niciodată ceva asemănător; mai
+curînd dumneavoastră, dragă demoiselle Stahlbaum, dar să nu ne batem capul
+pentru atîta lucru, ci, mai degrabă, să trecem Lacul Trandafirilor, ca să
+ajungem în capitală.
+
+13. CAPITALA
+Spărgătorul—de—nuci bătu din nou din palmele—i micuţe şi Lacul
+Trandafirilor se porni să murmure mai tare; valurile se înalţară mai sus, iar
+Măria văzu că din depărtare se apropie, trasă de doi delfini cu solzi de aur, o
+trăsură semănînd cu o scoică multicoloră, bătută în nestemate sclipitoare ca
+razele soarelui.
+Doisprezece puişori de negri drăgălaşi, cu căciulițe şi şorţuleţe ţesute din pene
+strălucitoare de colibri, săriră pe mal şi alunecînd peste valuri o purtară mai
+întîi pe Măria, iar apoi şi pe Spărgătorul—de—Nuci, pînă la trăsura care
+prinse îndată să se îndepărteze uşor de mal.
+Cît era de frumos! Măria aluneca în scoica de pietre preţioase şi trecea lacul
+învăluită de parfumul trandafirilor, legănată de valurile trandafirii. Cei doi
+delfini cu solzi de aur, înălţîndu—şi nările din valuri, zvîrleau în sus trîmbe
+cristaline care, căzînd în arcuri strălucitoare şi argintii, păreau să cînte:
+Pe—al rozelor lac cine pluteşte oare?
+Zîna fermecătoare.
+Musculițe bim—bim,
+Lebede la—la—la—la, .
+Păsările — tra—ra—ra,
+Unde—nspumate,
+Să crească, să învelească,
+Să răsune, să se—avînte şi să cînte.
+Zînă, zînişoară,
+Dusă de—o uşoară
+Mică trăsurică,
+Vă revărsaţi,
+Împrospătaţi, scăldaţi,
+Scăldaţi totul, totul.
+Dar cîntecul trîmbelor de apă nu părea să fie pe placul celor doisprezece pui
+de negri care se urcaseră la spatele trăsurii; ei îşi scuturau atît de tare
+umbreluţele de soare, încît frunzele de smochin din care erau făcute fîşîiau şi
+foşneau cu putere, iar în timpul acesta negrii băteau din picioare un ritm foarte
+curios şi cîntau:
+Plici şi placi,
+Placi şi plici,
+Şi acolo, şi aici,
+Al negrilor joc
+Să nu stea pe loc.
+Lebede albe
+
+
+Şi peşti să plutească,
+Vuiască — caleaşca — vuiască.
+Plici şi placi,
+Placi şi plici,
+Şi acolo, şi aici.
+— Aşa sînt negrii, oameni veseli, spuse puţin încurcat
+Spărgătorul—de—Nuci.
+Nu după mult timp, se porni o larmă ameţitoare de voci cristaline, ce păreau să
+plutească pe lac şi în aer.
+Dar Măria nu dădu însemnătate acestui lucru şi privi mai departe
+înmiresmatele unde trandafirii, care răsfrîngeau una cîte una un chip drăgălaş
+şi atrăgător de fetiţă.
+— Ia te uită, dragă domnule Drosselmeier, exclamă bucuroasă Măria,
+bătînd din palme, acolo jos se află prinţesa Pirlipat! Şi cît de binevoitor îmi
+zîmbeşte! Oh, priveşte, rogu—te, dragă domnule Drosselmeier!
+Dar Spărgătorul—de—Nuci oftă aproape jalnic şi spuse:
+—O, preabună demoiselle Stahlbaum, aceea nu e prinţesa Pirlipat, ci
+dumneavoastră, şi numai dumneavoastră, chipul dumneavoastră blînd, ce
+zîmbeşte atît de dulce din fiecare val trandafiriu.
+Atunci Măria îşi retrase iute capul, închise tare ochii şi se ruşina foarte. De
+altfel, în aceeaşi clipă, doisprezece negrişori o ridicară din trăsura scoicilor şi
+o purtară pînă la ţărm.
+Măria se afla într—un crîng mic, ce părea chiar şi mai frumos decît pădurea
+Crăciunului, atît de luminoase şi de strălucitoare erau toate cîte se aflau acolo.
+Făcea să stai şi să priveşti mai ales fructele neobişnuite— ciudat colorate şi cu
+o aromă fermecătoare — ce atîrnau de toţi pomii.
+— Ne aflăm în Crîngul Glasatelor, spuse Spărgătorul—de—Nuci. Şi iată,
+acolo e capitala!
+Doamne, ce i—a fost dat Măriei să vadă!
+Cum aş face să vă descriu, copii, frumuseţea oraşului care, din mijlocul unei
+poieni înflorite, răsări în toată splendoarea sa în faţa ochilor Măriei. Nu numai
+că zidurile şi turlele străluceau falnice, în cele mai minunate culori, dar şi
+forma clădirilor era fără pereche în lume, căci, în locul acoperişurilor, casele
+purtau coroane graţios împletite, iar turlele erau încununate cu frunze de cele
+mai felurite nuanţe.
+Cînd păşiră pe poarta toată numai de castane şi fructe glasate, soldaţii de
+argint prezentară arma pentru onor, iar un omuleţ îmbrăcat într—o haină de
+casă din brocart, se aruncă de gîtul Spărgătorului—de—Nuci, exclamînd:
+— Bun venit în Cetatea Fondantelor, onorate prinţ!
+Nu mică fu mirarea Măriei cînd băgă de seamă că un om atît de nobil i—a
+recunoscut tînărului Drosselmeier rangul de prinţ. Atunci se auzi însă o zarvă
+mare, un potop de voci subţirele, de aclamaţii, rîsete şi atîta bucurie încît
+Măria nici nu se mai putu gîndi la nimic, ci—l întrebă repede pe
+Spărgătorul—de—Nuci ce vor să însemne toate acestea.
+
+— Preabună demoiselle Stahlbaum, răspunse Spărgătorul—de—Nuci,
+nu—i ceva deosebit. Cetatea Fondantelor este o aşezare veselă, cu o populaţie
+mare, şi e firesc să fie atîta larmă. Să mergem mai departe!
+Nu făcură decît cîţiva paşi şi ajunseră într—o piaţă largă, din care se
+deschidea cea mai minunată privelişte. Jur, împrejur, toate casele colonade
+peste colonade, erau lucrate în filigran de zahăr. În mijloc stătea înfipt ca un
+obelisc un cozonac înalt, presărat cu zahăr pudră, iar în jurul lui, patru fîntîni
+arteziene zvîrleau în aer oranjadă, limonada şi alte băuturi delicioase, iar în
+bazine se aduna multă cremă, numai bună s—o înghiţi pe loc. Dar mai drăguţ
+decît toate acestea erau omuleţii care se înghesuiau cu miile — o adevărată
+mare de capete — şi cîntau şi glumeau, chicoteau şi rîdeau — pe scurt, făceau
+larma aceea veselă pe care Măria o auzise încă din depărtare.
+Erau aici domni şi doamne, îmbrăcaţi elegant, armeni şi greci, evrei şi tirolezi,
+ofiţeri şi soldaţi, predicatori, măscărici şi ciobani, într—un cuvînt, toate
+soiurile de oameni ce pot fi găsiţi pe lume.
+într—un colţ, larma deveni şi mai mare, poporul se dădu în lături să facă loc
+Marelui Mogul, care venea purtat pe o litieră, însoţit de nouăzeci şi trei de
+mărimi ale împărăţiei şi de şapte sute de sclavi, însă tocmai atunci, din capătul
+celălalt al pieţei, se apropie procesiunea festivă a breslei pescarilor, numărînd
+vreo cinci sute de suflete. Supărător era şi faptul că, tot atunci, marelui senior
+turc i se năzărise să se plimbe călare prin piaţă, cu trei mii de ieniceri. Pe
+deasupra, marea coloană ce venea de la sărbătoarea jertfei întrerupte, se
+îndrepta, cu muzica în frunte şi cu cîntecul „Ridicaţi—vă, mulţumiţi
+măreţului soare", către marele obelisc. Era o îngrămădeală, o învălmăşeală, o
+îmbrînceală şi o gălăgie nemaipomenită. Nu după mult timp, izbucniră şi
+vaiete, căci în înghesuială, un pescar smulse capul unui brahman, iar Marele
+Mogul fu cît pe—aici să fie răsturnat de un măscărici.
+Zgomotul deveni tot mai turbat şi mulţimea începu să se înghiontească şi să se
+bată, cînd omul cu haina de brocart, care îl primise la poartă pe
+Spărgătorul—de—Nuci ca pe un prinţ, se caţără pe cozonac şi, după ce un
+clopot cristalin bătu de trei ori, strigă de trei ori cu putere:
+— Cofetar! Cofetar! Cofetar!
+Hărmălaia se potoli ca prin farmec. Fiecare căuta să se descurce cum poate şi
+după ce învălmăşeala se risipi, după ce Marele Mogul fu periat şi curăţat, iar
+brahmanului i se puse la loc capul, vuietul cel vesel se porni iarăşi.
+—Ce este acest „cofetar", dragă domnule Drosselmeier? întrebă Măria.
+—Vai, dragă demoiselle Stahlbaum, prin cofetar se înţelege aici o forţă
+necunoscută, dar îngrozitoare, despre care se crede că poate face din om ce
+vrea; este ursita care stăpîneşte acest popor mic şi vesel, iar el se teme atît de
+mult de ea, încît prin simpla pronunţare a numelui ei, poate fi potolită zarva
+cea mai mare, după cum a dovedit—o tocmai acum domnul primar. Nimeni
+nu se mai gîndeşte atunci la cele lumeşti, la ghionturile primite între coaste şi
+la cucuie, ci se reculege şi îşi spune: „Cît preţuieşte omul şi ce poate să
+ajungă!"
+
+
+Măria nu—şi putu stăvili un strigăt de admiraţie şi de uimire cînd se trezi aşa,
+deodată, în faţa unui castel cu o sută de turnuri înalte, scăldate în raze
+trandafirii. Ici şi colo erau presărate pe ziduri buchete bogate de violete,
+narcise, lalele, micsandre, punînd şi mai mult în lumină, prin culorile tari,
+arzătoare, orbitorul fond roz—alb al clădirii. Pe marea cupolă ce se înălţa
+deasupra corpului din mijloc, precum şi pe acoperişurile piramidale ale
+turnurilor, erau semănate mii de steluţe strălucitoare, aurii şi argintii.
+— Ne aflăm acum în faţa palatului de marţipan, spuse
+Spărgătorul—de—Nuci.
+Măria se pierdu cu totul în admirarea priveliştii palatului feeric, dar cu toate
+acestea, nu—i scăpă faptul că unul din turnurile mari nu mai avea acoperiş
+deloc şi că nişte omuleţi ce stăteau pe nişte schele de scorţişoară încercau
+să—l repare. Înainte ca ea să întrebe ceva, Spărgătorul—de—Nuci îi zise:
+— Nu demult, acest palat frumos a fost ameninţat cu pustiirea, ba chiar cu o
+desăvîrşită distrugere. Uriaşul Lăcomilă, venind aici în plimbare, muşcase la
+repezeală acoperişul turnului şi tocmai începuse să roadă marea cupolă, cînd
+cetăţenii din Fondantele îi aduseră ca obol un întreg cartier al oraşului,
+precum şi o mare parte a Crîngului Glasatelor, cu care Lăcomilă se declară
+satisfăcut şi consimţi să plece mai departe.
+În clipa aceea se auzi o melodie lină şi dulce. Porţile palatului se dădură în
+lături şi doisprezece paji mici ieşiră purtînd în chip de făclii, crengi de
+cuişoare aprinse. Capetele pajilor erau făcute din cîte o perlă, trupurile din
+rubine şi smaralde, iar picioruşele din aur curat, lucrat cu măiestrie.
+în urma lor veneau patru doamne, înalte cît o păpuşă, dar atît de strălucitor şi
+de minunat gătite, încît Măria nu se îndoi nici o clipă că sînt prinţese
+adevărate. Ele îl îmbrăţişară cu multă dragoste pe Spărgătorul—de—Nuci şi
+exclamară toate cu o dureroasă bucurie:
+— O, prinţul nostru, bunul nostru prinţ! O, fratele nostru!
+Spărgătorul—de—Nuci, ce părea foarte tulburat, îşi şterse lacrimile grele ce îi
+şiroiau din ochi şi, apucînd—o pe Măria de mînă, rosti cu înfocare:
+— Aceasta este demoiselle Măria Stahlbaum, fiica unui foarte respectabil
+medic consilier şi salvatoarea vieţii mele. Dacă n—ar fi aruncat la timp
+papucul, dacă nu mi—ar fi făcut rost de sabia colonelului pensionat, aş zace
+acum în mormînt, sfîşiat de blestematul Rege al Şoarecilor. O, seamănă oare
+Pirlipat, cu toate că este de viţă domnească, seamănă ea cu demoiselle
+Stahlbaum, ca frumuseţe, bunătate şi virtute? Nu, spun eu, nicidecum!
+Toate doamnele exclamară:
+—Nu!
+O cuprinseră pe Măria pe după gît, strigînd printre lacrimi:
+— O, nobilă salvatoare a iubitului nostru frate princiar, minunată
+demoiselle Stahlbaum!
+Apoi, doamnele îi conduseră pe Măria şi pe Spărgătorul—de—Nuci înăuntrul
+castelului, într—o sală cu pereţi numai şi numai din cristale colorate şi
+strălucitoare.
+
+
+Dar ceea ce i—a plăcut cel mai mult Măriei au fost adorabilele măsuţe,
+scăunele, scrinuleţe, secretere aşezate în jur, lucrate din lemn de cedru şi de
+Brazilia şi încrustate cu flori de aur. Prinţesele îi poftiră pe Măria şi pe
+Spărgătorul—de—Nuci să se aşeze şi le spuseră că aveau să le pregătească ele
+însele, cu mîinile lor, un ospăţ. Aduseră de îndată o mulţime de ulcele şi
+crăticioare din cel mai fin porţelan japonez, linguri, cuţite şi furculiţe,
+răzătoare, tigăiţe şi alte vase de bucătărie din aur şi argint.
+Apoi, aduseră cele mai gustoase fructe şi zaharicale, aşa cum Măria încă nu
+văzuse niciodată, şi începură să le stoarcă graţios, cu mînuţele lor albe ca
+zăpada, să piseze mirodenii, să radă migdale zaharisite — pe scurt, să
+gospodărească în aşa fel, încît Măria îi dădu seama cît de bine se pricepeau
+prinţesele la bucătărie şi ce bucate gustoase aveau să iasă. Convingerea că şi
+ea era foarte îndemînatică la astfel de treburi trezi în sufletul Măriei dorinţa
+tainică de a lua parte la munca prinţeselor. Parcă ghicindu—i gîndul, cea mai
+frumoasă dintre surorile Spărgătorului—de—Nuci îi întinse Măriei o mică
+piuliţă de aur, spunîndu—i:
+— O, dragă prietenă, scumpă salvatoare a fratelui meu, te rog, pisează o
+fărîmă din acest zahăr candel!
+Cînd Măria începu să piseze bucuroasă zahărul candel în piuliţa care răsuna
+drăgălaş şi plăcut, ca un cîntecel cristalin, Spărgătorul—de—Nuci începu să
+povestească de—a fir—a—păr cum se desfăşurase îngrozitoarea bătălie
+dintre armatele sale şi cele ale Regelui Şoarecilor, cum din cauza laşităţii
+trupelor sale fusese înfrînt, cum apoi scîrbosul Rege al Şoarecilor încercase cu
+tot dinadinsul să—l sfîşie şi cum, de aceea, Măria trebuise să—i sacrifice pe
+mai mulţi dintre supuşii săi intraţi în serviciile ei, şi aşa mai departe.
+În timpul acestei povestiri, Măriei i se păru că nu numai cuvintele, ci şi
+loviturile piuliţei răsunau tot mai îndepărtate şi mai puţin desluşite şi curînd
+văzu cum o învăluiau ceţuri argintii, ca nişte nori subţiri în care pluteau
+prinţesele, pajii, Spărgătorul—de—Nuci, ba chiar şi ea. Mai apucă să audă,
+tot mai încet, un cîntec straniu, însoţit de şuierături şi zumzăieli. Apoi, se simţi
+parcă purtată de valori, tot mai sus şi mereu mai sus, mai sus şi mai sus, mereu
+mai sus şi mai sus!
+
+14. ÎNCHEIERE
+Deodată se auzi — brr—buff! — şi Măria se prăbuşi din înălţimi nemăsurate.
+Ce zguduitură! Deschise repede ochii şi se găsi întinsă în pătucul ei.
+Era ziua în amiaza mare, iar mama stătea în faţa ei, spunînd:
+— Cum poţi dormi atîta? De mult te aşteaptă cafeaua.
+Ai băgat de seamă, preastimată adunare, că Măria, ameţită cu totul de
+minunăţiile văzute, adormise pînă la urmă în sala castelului de marţipan şi că
+negrişorii sau pajii, sau poate chiar prinţesele, au purtat—o pînă acasă şi au
+culcat—o în pat.
+— O, mamă, dragă mamă, pe unde nu m—a dus în noaptea asta tînărul
+domn Drosselmeier, şi ce lucruri frumoase am văzut!
+Apoi povesti totul, aproape la fel de amănunţit cum v—am povestit şi eu, în
+timp de mama ei o asculta privind—o cu mirare. Cînd Măria termină, mama ei
+spuse:
+— Ai avut un vis foarte frumos, dragă Măria, dar scoate—ţi toate acestea
+din cap.
+—Măria, însă, susţinea cu îndărătnicie că nu visase, ci văzuse totul aievea.
+Atunci, mama o conduse la vitrină, scoase de acolo Spărgătorul—de—Nuci,
+care stătea ca de obicei pe raftul al treilea, şi spuse:
+
+—Cum poţi crede, prostuţo, că această păpuşă de lemn, din Nurnberg, poate
+să aibă viaţă şi să se mişte?
+—Dar, dragă mamă, o întrerupse Măria, ştiu foarte bine că micul
+Spărgător—de—Nuci este tînărul domn Drosselmeier din Nurnberg, nepotul
+naşului Drosselmeier.
+Atunci, medicul consilier şi doamna medic consilier izbucniră amîndoi
+într—un hohot de rîs.
+— Ufff, continuă Măria, aproape plîngînd, pînă şi tu rîzi de Spărgătorul
+meu de Nuci, dragă tată! Şi el, care a vorbit aşa de frumos despre tine! Ştii,
+cînd am ajuns la castelul de marţipan şi m—a prezentat surorilor sale,
+prinţesele, a spus că eşti un medic consilier foarte respectabil.
+Acum o apucă rîsul şi pe Luise, ba chiar şi pe Fritz, înteţindu—se tot mai tare.
+Atunci, Măria alergă repede în cealaltă cameră, scoase din mica ei casetă cele
+şapte coroane ale Regelui Şoarecilor şi le întinse mamei, cu următoarele
+cuvinte:
+— lată, dragă mamă, cele şapte coroane ale Regelui Şoarecilor, pe care mi
+le—a dăruit tînărul Drosselmeier, în noaptea trecută, ca dovadă a victoriei lui.
+Doamna medic consilier cercetă cu uimire coroanele făcute dintr—un metal
+scînteietor, cu totul necunoscut, lucrate cu atîta măiestrie încît era aproape cu
+neputinţă să fi fost făurite de mînă omenească.
+Medicul consilier nu se mai sătura nici el privindu—le şi amîndoi, mama şi
+tatăl, îi cerură cu toată seriozitatea Măriei să mărturisească de unde le avea.
+Fata, însă, o ţinea morţiş cu povestea ei. Cînd tatăl o certă cu asprime, ba chiar
+îi spuse că era o mică mincinoasă, Măria izbucni într—un plîns amar şi
+începu să se jeluiască:
+— Vai, sărmana de mine, sărmana de mine, ce pot să mai spun?
+În clipa aceea, uşa se deschise şi intră consilierul de curte, întrebînd:
+— Ce se întîmplă aici, ce se întîmplă aici? Micuţa mea Măria plînge în
+hohote! Ce s—a întîmplat? Ce se petrece aici?
+Medicul consilier îi povesti arătîndu—i coroniţele. De cum le văzu,
+consilierul de curte izbucni în rîs, exclamînd:
+— Ei, ce mai ponos! Ce mai ponos! Acestea sînt inelele pe care le—am
+purtat cu ani în urmă la lanţul meu de la ceas şi i le—am dăruit Măriei de ziua
+ei, atunci cînd a împlinit doi ani! Ce este, nu vă mai amintiţi?
+Nici medicul consilier şi nici doamna medic consilier nu—şi mai aminteau de
+inele. Atunci cînd Măria observă că pe chipurile părinţilor ei se aşternuse din
+nou vechea expresie prietenoasă, se aruncă la pieptul naşului Drosselmeier,
+exclamînd:
+— Tu, care le ştii pe toate, spune şi tu dacă Spărgătorul—de—Nuci nu
+este tînărul domn Drosselmeier din Numberg, nepotul tău, şi dacă nu el mi—a
+dăruit aceste coroniţe!
+Consilierul de curte se încruntă, o privi posomorit şi mormăi:
+— Iarăşi un mare ponos!
+Apoi, medicul consilier o chemă pe Măria în faţa lui şi—i vorbi cu severitate:
+
+— Ascultă, Măria, e timpul să te laşi de basme şi bazaconii. Dacă mai
+spui o singură dată că urîtul şi prostănacul acela de Spărgător—de—Nuci este
+nepotul domnului consilier de curte, atunci am să—l azvîrlu pe fereastră, şi nu
+numai pe Spărgătorul—de—Nuci, ci şi toate celelalte păpuşi ale tale!
+Se înţelege acum că sărmana Măria nu mai putea vorbi despre întîmplarea
+aceea care îi umplea întreaga fiinţă, deşi i—ar fi plăcut atît de mult să o facă,
+de vreme ce, după cum lesne vă puteţi închipui, nişte clipe atît de frumoase şi
+încîntătoare cum fuseseră cele trăite de Măria nu se pot uita deloc uşor!
+Pînă şi — preastimate ascultător sau cititor Fritz — pînă şi colegul tău, Fritz
+Stahlbaum, îi întorcea spatele surorii sale atunci cînd ea dorea să—i
+povestească despre împărăţia fermecată în care fusese atît de fericită. De
+cîteva ori, chiar se pare că ar fi mormăit printre dinţi:
+— Gîscă neroadă!
+Dar, ţinînd seama de bunătatea sa îndeobşte cunoscută, nu—mi pot închipui
+una ca asta. Sigur însă este că, fără să mai creadă nimic din ceea ce îi povestise
+Măria, Fritz a revocat categoric, la o paradă oficială, pedeapsa nedreaptă pe
+care le—o dăduse husarilor săi.
+În locul însemnelor pierdute, le—a lipit nişte smocuri mult mai mari şi mai
+frumoase din pene de gîscă şi totodată le—a îngăduit să intoneze din nou
+marşul husarilor de gardă. Dar noi ştim mai bine cît de viteji fuseseră husarii
+atunci cînd, din cauza acelor gloanţe nesuferite, li se pătaseră tunicile roşii.
+E drept că Măria nu mai avea voie să vorbească despre cele întîmplate, dar
+amintirile acestei minunate ţări de basm o învăluiau parcă într—un murmur
+dulce, în şoapte blînde şi melodioase.
+Revedea totul aievea, de îndată ce îşi îndrepta gîndul nestăvilit într—acolo şi,
+din acest motiv, în loc să se mai joace ca altă dată, rămînea nemişcată şi
+tăcută, adînc cufundată în sine. Iată din care motiv a fost luată în derîdere şi
+poreclită de toţi „mica visătoare".
+Într—o zi, consilierul de curte veni să repare un orologiu în casa medicului
+consilier. Măria stătea lîngă vitrină, pierdută în visurile ei şi, privind
+Spărgătorul—de—Nuci, spuse dintr—o dată, fără să vrea:
+— Vai, dragă domnule Drosselmeier, de—aţi trăi cu adevărat, eu nu aş
+face ca prinţesa Pirlipat şi nu v—aş dispreţui, dacă de dragul meu aţi înceta să
+fiţi un domn tînăr şi drăguţ!
+Auzind acestea, consilierul de curte strigă:
+— Ei, ce mai ponos!
+Dar în acelaşi moment se şi auzi un pocnet şi se simţi o zguduitură atît de
+puternică, încît Măria căzu de pe scaun, leşinată. Venindu—şi în fire, o văzu
+pe mama ei, care o îngrijea, şi care spuse:
+— Cum se poate ca o fată atît de mare să cadă de pe scaun! Iată, a sosit
+din Nurnberg nepotul domnului consilier de curte! Haide, fii cuminte şi
+drăguţă!
+Măria îşi ridică ochii. Consilierul de curte îşi pusese din nou pe cap peruca de
+sticlă, îşi îmbrăcase haina cea galbenă şi surîdea cît se poate de mulţumit, în
+timp ce ţinea de mînă un tînăr domn, cam mic de statură, ce—i drept, dar 
+
+
+foarte bine făcut. Chipul lui era alb şi îmbujorat ca laptele şi trandafirii; purta
+o splendidă tunică roşie, brodată cu fir de aur, în picioare avea ciorapi şi
+pantofi de mătase albă, iar la gît un jabou prins cu un încîntător buchețel de
+flori; era frizat şi pudrat cu îngrijire, pe spate atîrnîndu—i o coadă grozavă.
+Mica spadă ce i se legăna pe şold părea făcută numai din giuvaericale, atît era
+de scînteietoare, iar pălăria pe care o purta sub braţ parcă ar fi fost ţesută din
+fulgi de mătase.
+Tînărul domn dovedi de îndată cît era de bine crescut. Îi adusese Măriei o
+mulţime de jucării minunate, dar mai ales marţipanul cel mai bun şi tocmai
+aceleaşi figurine pe care le rosese Regele Şoarecilor.
+Lui Fritz îi dăruise o sabie foarte frumoasă.
+La prînz, nepoţelul sparse nuci pentru toţi mesenii. Le sparse pe cele mai tari.
+Cu mîna dreaptă vîra nucile în gură, cu stînga trăgea de coadă şi —crac! —
+nuca se spărgea în bucăţi!
+Măria se făcuse roşie ca focul la faţă cînd îl zărise pe tînărul şi bine crescutul
+domn, şi se îmbujora şi mai tare cînd, după masă, junele Drosselmeier o invită
+să—l însoţească la vitrina din salon.
+— Jucaţi—vă frumos împreună, copii, îi sfătui consilierul de curte. Acum,
+cînd toate ceasurile mele merg cum trebuie, nu mai am nimic împotrivă!
+Dar, de îndată ce rămase singur cu Măria, tînărul domn Drosselmeier se
+aruncă la picioarele ei,vorbindu—i astfel:
+— O, prea excelentă demoiselle Stahlbaum! Înaintea dumneavoastră se
+găseşte fericitul Drosselmeier, căruia chiar aici, în acest loc, i—aţi salvat
+viaţa! Aţi avut bunătatea de a spune că nu m—aţi respinge, la fel ca urîcioasa
+prinţesă Pirlipat, dacă m—aş fi sluţit de dragul dumneavoastră. Chiar în clipa
+aceea, am încetat să mai fiu un Spărgător—de—Nuci oarecare şi mi—am
+redobîndit înfăţişarea de odinioară, nu tocmai neplăcută. O, neasemuită
+demoiselle, făceţi—mă fericit acordîndu—mi nepreţuita dumneavoastră
+mînă, împărţiţi cu mine coroana şi împărăţia, şi domniţi alături de mine în
+castelul de marţipan, unde sînt acum rege!
+Măria îl ridică pe tînăr, murmurîndu—i:
+— Dragă domnule Drosselmeier, sînteţi un om bun şi blînd şi, pentru că
+pe deasupra mai domniţi şi peste o ţară încîntătoare, cu cetăţeni foarte drăguţi
+şi veseli, primesc să—mi fiţi soţ.
+Aşa s—a făcut că Măria deveni pe dată logodnica domnului Drosselmeier.
+După răgazul de un an, el a venit şi a luat—o, cum se povesteşte, într—o
+trăsură de aur, trasă de cai din argint.
+La nunta lor au dansat douăzeci şi două de figurine dintre cele mai
+strălucitoare, împodobite cu perle şi diamante, şi se pare că Măria mai este şi
+astăzi regina unei ţări unde pot fi văzute peste tot păduri cu falnici pomi de
+Crăciun, castele străvezii de marţipan... pe scurt, cele mai extraordinare şi mai
+minunate lucruri, pentru cine are ochi să le vadă.
+Iată, acesta a fost basmul despre Spărgătorul—de—Nuci şi despre Regele
+Şoarecilor.
+</poveste>
+</carte>

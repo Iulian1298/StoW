@@ -195,9 +195,73 @@ text-decoration: underline;
 	 padding:0 0 0 10px;
  }
 
-  
-  
+ #select_f
+ {
+	 border: 2px solid #9E9E9E;
+	color:#F7FF3C; 
+	font-size: 20px;
+    font-weight: bold;
+	background: #BB0B0B;
+	width: 250px;
+	
+ }
+ .select-field
+ {
+	 padding-top:20px;
+	 
+ }
+ #del_btn
+ {
+ color: black;
+ font-size: 20px;
+ width: 100px;
+ height: 40px;
+ border: 2px solid #9E9E9E;
+ font-weight: bold;
+ background: #CECECE;
+ display:block;
+ float:center;
+
  
+
+ }
+.padding_butoane
+{
+	padding:15px 15px 15px 15px;
+}
+ 
+
+ #input_pov
+ {
+	 float:center;
+	 display:block;
+	 padding:15px 15px 15px 15px;
+ }
+ 
+  .del_or_change
+  {
+	  border: 2px solid #9E9E9E;
+	  font-weight: bold;
+	  background: #CECECE;
+	  font-size: 20px;
+	  
+  }
+  #del{
+	  display: inline;
+	  padding:15px 100px 15px 50px;
+	  
+  }
+  #change
+  {
+	  display: inline;
+	  padding:15px 50px 15px 50px;
+  }
+  
+
+  
+  
+  
+  
   
   
   @media only screen and (max-width: 1100px) {

@@ -281,7 +281,16 @@ text-decoration: underline;
 	 padding-top:20px;
  }
 
-
+#nr_pagina
+{
+	padding:5px;
+	background-color:#A5260A ; 
+	color:orange;
+	font-size: 15px;
+	border-radius: 10px;
+	display:inline;
+	border:2px solid #9E9E9E;
+}	
   
   @media only screen and (max-width: 1100px) {
     /* For desktop: */

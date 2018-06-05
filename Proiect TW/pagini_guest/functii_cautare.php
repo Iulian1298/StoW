@@ -31,7 +31,7 @@ function get_id_fragment($id_poveste_cautata,$con)
 			$id_fragment=$id_fragmente['id_fragment'];
 	return $id_fragment;
 }
-function get_ultimul_fragment_citit($retine_username,$id_poveste_cautata,$con)
+function get_ultimul_fragment_citit_si_idul_fragmentului($retine_username,$id_poveste_cautata,$con)
 {
 	$sql1="select id_fragment from semncarte where user='$retine_username' and id_poveste='$id_poveste_cautata'";
 	$id_fragmente_sql1=$con->query($sql1);
@@ -42,7 +42,7 @@ function get_ultimul_fragment_citit($retine_username,$id_poveste_cautata,$con)
 	$fragmente_sql2=$con->query($sql2);
 	while($fragmente=$fragmente_sql2->fetch_assoc())
 		$fragment=$fragmente['fragment'];
-	return $fragment;
+	return compact ('fragment','id_fragment');
 }
 function echo_pers_desc($id_poveste_cautata,$con)
 {

@@ -32,3 +32,15 @@
 	color:blue;
 	padding-top:15px;
 }
+.eroareDelete
+{
+	font-weight: bold;
+	color:red;
+	padding-top:15px;
+}
+.succesDelete
+{
+	font-weight: bold;
+	color:blue;
+	padding-top:15px;
+}
